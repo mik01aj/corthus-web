@@ -8,8 +8,9 @@ You'll need virtualenv here.
     virtualenv .
     . bin/activate
     pip install git+git://github.com/mik01aj/corthus
+    pip install whoosh
     
 or (a version for me):
     
-    pip install git+file:///home/m01/code/corthus/
+    pip install --upgrade git+file:///home/m01/code/corthus/
 
