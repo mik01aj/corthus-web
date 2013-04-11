@@ -1,0 +1,30 @@
+<!doctype html>
+<html ng-app>
+<head>
+    <script src="js/angular.js"></script>
+    <script src="js/first_angular_test.js"></script>
+    <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+
+<section id="nav">
+    <h1><a href="/">C<em>ORTH</em>US</a></h1>
+
+    <ul>
+        <li><a href="#">aaa</a></li>
+    </ul>
+</section>
+
+<div id="content" ng-controller="TextCtrl">
+    <h1>{{ title }}</h1>
+    <table>
+        <tr ng-repeat="rung in rungs">
+            <td class="pl">{{ rung.pl }}</td>
+            <td class="pl">{{ rung.cu }}</td>
+            <td class="pl">{{ rung.el }}</td>
+        </tr>
+    </table>
+</div>
+
+</body>
+</html>
