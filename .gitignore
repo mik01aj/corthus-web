@@ -1,7 +1,6 @@
 *.log
 *.pot
 *.pyc
-local_settings.py
 
 # virtualenv stuff
 bin/
