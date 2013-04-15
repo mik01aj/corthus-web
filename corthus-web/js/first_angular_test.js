@@ -6,6 +6,9 @@ function TextCtrl($scope, $http) {
             return _.map(data.split('\n\n'), function (rungStr) {
                 var rungObj = {};
                 _.forEach(rungStr.split('\n'), function (line) {
+                    if (!line) {
+                        return;
+                    }
                     var match = line.match(/^([a-z]+) (.*)$/); // line format
                     if (!match) {
                         console.error("line does not match: ", line);
