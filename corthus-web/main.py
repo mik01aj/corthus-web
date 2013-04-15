@@ -1,5 +1,6 @@
 from bottle import route, run, static_file
 
+# http://stackoverflow.com/questions/14431012/how-to-convert-sass-on-the-fly-to-css-in-python
 # import subprocess
 # process = subprocess.Popen("compass --watch ./css/main.sass:./css/main.css".split(), stdout=subprocess.PIPE)
 
@@ -7,12 +8,12 @@ from bottle import route, run, static_file
 def hello():
     return open('index.html').read()
 
-@route('/static/<filename:path>')
+@route('/<filename:path>')
 def send_static(filename):
-    return static_file(filename, root='static/')
+    return static_file(filename, root='./')
 
-@route('/js/<filename:re:.*\.js>')
-def send_static_js(filename):
-    return static_file(filename, root='js/')
+# @route('/js/<filename:re:.*\.js>')
+# def send_static_js(filename):
+#     return static_file(filename, root='js/')
 
 run(host='localhost', port=8080, debug=True)
