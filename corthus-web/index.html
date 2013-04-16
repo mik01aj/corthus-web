@@ -17,8 +17,8 @@
 </section>
 
 <div id="content" ng-controller="TextCtrl">
-    <h1>{{ title }}</h1>
-    <table>
+    <h1><a href="{{ path }}">{{ path }}</a></h1>
+    <table class="align-table">
         <tr ng-repeat="rung in rungs">
             <td ng-repeat="lang in langs" class="{{ lang }}">
                 <p ng-repeat="sent in rung[lang]">
@@ -27,8 +27,6 @@
             </td>
         </tr>
     </table>
-
-    {{ phones }}
 </div>
 
 </body>

@@ -1,6 +1,9 @@
 function TextCtrl($scope, $http) {
 
-    $http.get('texts/kanon_izr.pt2', {
+//    var path = 'texts/kanon_izr.pt2';
+    $scope.path = 'gen/Jn/1';
+
+    $http.get($scope.path, {
         transformResponse: function (data) {
             // parsing PT into Javascript object.
             return _.map(data.split('\n\n'), function (rungStr) {
@@ -11,7 +14,7 @@ function TextCtrl($scope, $http) {
                     }
                     var match = line.match(/^([a-z]+) (.*)$/); // line format
                     if (!match) {
-                        console.error("line does not match: ", line);
+                        console.error("parse error: line does not match: ", line);
                         return;
                     }
                     var list = rungObj[match[1]] || [];
@@ -25,7 +28,5 @@ function TextCtrl($scope, $http) {
         $scope.rungs = data;
     });
 
-    $scope.langs = ['pl', 'cu', 'el'];
-
-    $scope.title = "text text";
+    $scope.langs = ['pl', 'cu', 'el', 'en', 'fr', 'la'];
 }
