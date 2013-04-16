@@ -1,6 +1,6 @@
 function TextCtrl($scope, $http) {
 
-    $http.get('texts/kanon_izr.pt', {
+    $http.get('texts/kanon_izr.pt2', {
         transformResponse: function (data) {
             // parsing PT into Javascript object.
             return _.map(data.split('\n\n'), function (rungStr) {
@@ -22,7 +22,6 @@ function TextCtrl($scope, $http) {
             });
         }
     }).success(function (data) {
-        console.log('success', data);
         $scope.rungs = data;
     });
 

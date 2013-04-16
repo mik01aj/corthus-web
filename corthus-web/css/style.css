@@ -1,5 +1,5 @@
 
-@import url('../font/fonts.css')
+@import url('../font/stylesheet.css');
 
 body {
     font-family: Georgia, serif;
@@ -17,7 +17,7 @@ a:visited { color: #7AA2C2; }
 a:hover { color: /*#3E98FF*/ #B13030; text-decoration: underline; }
 a.current { font-weight: bold; color: black; }
 
-.cu, .cue { font-family: "Triodion";
+.cu, .cue { font-family: "hirmos_ponomar";
             line-height: 125%; }
 .cu em, .cue em { color: red;
 	          font-style: normal; }

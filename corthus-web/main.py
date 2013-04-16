@@ -1,4 +1,4 @@
-from bottle import route, run, static_file
+from bottle import route, run, static_file, response
 
 # http://stackoverflow.com/questions/14431012/how-to-convert-sass-on-the-fly-to-css-in-python
 # import subprocess
@@ -10,6 +10,10 @@ def hello():
 
 @route('/<filename:path>')
 def send_static(filename):
+    extension = filename.split('.')[-1]
+    response.content_type = {
+        'eot' : ''
+    }
     return static_file(filename, root='./')
 
 # @route('/js/<filename:re:.*\.js>')
