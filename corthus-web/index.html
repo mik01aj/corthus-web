@@ -1,33 +1,23 @@
 <!doctype html>
-<html ng-app>
+<html>
 <head>
     <script src="js/angular.js"></script>
     <script src="js/lodash.js"></script>
     <script src="js/first_angular_test.js"></script>
     <link rel="stylesheet" href="css/style.css">
 </head>
-<body>
+<body ng-app="corthus">
 
 <section id="nav">
     <h1><a href="/">C<em>ORTH</em>US</a></h1>
 
-    <ul>
-        <li><a href="#">aaa</a></li>
+    <ul ng-controller="NavCtrl">
+        <li ng-repeat="link in links"><a href="#/text/{{ link }}">{{ link }}</a></li>
     </ul>
 </section>
 
-<div id="content" ng-controller="TextCtrl">
-    <h1><a href="{{ path }}">{{ path }}</a></h1>
-    <table class="align-table">
-        <tr ng-repeat="rung in rungs">
-            <td ng-repeat="lang in langs" class="{{ lang }}">
-                <p ng-repeat="sent in rung[lang]">
-                    {{ sent }}
-                </p>
-            </td>
-        </tr>
-    </table>
-</div>
+<section id="content" ng-view>
+</section>
 
 </body>
 </html>

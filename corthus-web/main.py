@@ -9,7 +9,7 @@ from itertools import izip_longest
 def hello():
     return open('index.html').read()
 
-@route('/gen/<name>/<chapter>')
+@route('/api/<name>/<chapter>')
 def gen_text(name, chapter):
 
     def get_chapter(filename, chapter):

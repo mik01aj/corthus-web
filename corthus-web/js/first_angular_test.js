@@ -1,9 +1,23 @@
-function TextCtrl($scope, $http) {
+var corthusModule = angular.module('corthus', []);
 
-//    var path = 'texts/kanon_izr.pt2';
-    $scope.path = 'gen/Jn/1';
+corthusModule.config(function ($routeProvider) {
+    $routeProvider
+        .when('/text/:name/:chapter', {
+            templateUrl: 'templates/text.html',
+            controller: TextCtrl
+        })
+        .otherwise({
+            redirectTo: '/text/Jn/1'
+        });
+});
 
-    $http.get($scope.path, {
+function TextCtrl($scope, $http, $routeParams) {
+
+//    $scope.path = 'texts/kanon_izr.pt2';
+//    $scope.path = 'gen/Jn/1';
+    $scope.path = $routeParams.name + '/' + $routeParams.chapter;
+
+    $http.get('api/' + $scope.path, {
         transformResponse: function (data) {
             // parsing PT into Javascript object.
             return _.map(data.split('\n\n'), function (rungStr) {
@@ -25,8 +39,12 @@ function TextCtrl($scope, $http) {
             });
         }
     }).success(function (data) {
-        $scope.rungs = data;
-    });
+            $scope.rungs = data;
+        });
 
     $scope.langs = ['pl', 'cu', 'el', 'en', 'fr', 'la'];
+}
+
+function NavCtrl($scope, $http, $routeParams) {
+    $scope.links = ['Mt/1', 'Mk/1', 'Lk/1', 'Jn/1'];
 }

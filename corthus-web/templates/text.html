@@ -1,0 +1,10 @@
+<h1>{{ path }}</h1>
+<table class="align-table">
+    <tr ng-repeat="rung in rungs">
+        <td ng-repeat="lang in langs" class="{{ lang }}">
+            <p ng-repeat="sent in rung[lang]">
+                {{ sent }}
+            </p>
+        </td>
+    </tr>
+</table>
