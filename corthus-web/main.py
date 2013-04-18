@@ -25,7 +25,7 @@ def gen_text(name, chapter):
                     result.append(line.split('|')[1])  # a hackish way to get rid of numbers
             return result
 
-    langs = ['el', 'cu', 'en', 'fr', 'la']
+    langs = ['ar', 'cu', 'el', 'en', 'fr', 'la', 'zh-Hans', 'zh-Hant']
 
     def gen_response():
         chapters = [get_chapter('texts_ponomar/%s/%s.text' % (lang, name), chapter)

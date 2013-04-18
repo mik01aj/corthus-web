@@ -26,7 +26,7 @@ function TextCtrl($scope, $http, $routeParams) {
                     if (!line) {
                         return;
                     }
-                    var match = line.match(/^([a-z]+) (.*)$/); // line format
+                    var match = line.match(/^([a-zA-Z-]+) (.*)$/); // line format
                     if (!match) {
                         console.error("parse error: line does not match: ", line);
                         return;
@@ -42,7 +42,8 @@ function TextCtrl($scope, $http, $routeParams) {
             $scope.rungs = data;
         });
 
-    $scope.langs = ['pl', 'cu', 'el', 'en', 'fr', 'la'];
+//    $scope.langs = ['pl', 'cu', 'el', 'en', 'fr', 'la'];
+    $scope.langs = ['ar', 'cu', 'el', 'en', 'fr', 'la', 'zh-Hans'];
 }
 
 function NavCtrl($scope, $http, $routeParams) {
