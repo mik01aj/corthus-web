@@ -1,28 +1,38 @@
 from bottle import route, run, static_file
 from itertools import izip_longest
+import json
+import os
 
 # http://stackoverflow.com/questions/14431012/how-to-convert-sass-on-the-fly-to-css-in-python
 # import subprocess
 # process = subprocess.Popen("compass --watch ./css/main.sass:./css/main.css".split(), stdout=subprocess.PIPE)
 
+
 @route('/')
 def hello():
     return open('index.html').read()
 
-@route('/api/<name>/<chapter>')
-def gen_text(name, chapter):
 
+INDEX_BASE_LANG = 'el'
+
+
+@route('/api/<name>/<chapter:re:[0-9]+>')
+def text(name, chapter):
     def get_chapter(filename, chapter):
         with open(filename) as f:
             result = []
             on = False
             for line in f:
+
                 if not on and line.startswith('#') and line[1:].strip() == chapter:
                     on = True
                 elif on:
                     if line.startswith('#'):
                         break
-                    result.append(line.split('|')[1])  # a hackish way to get rid of numbers
+                    if '|' in line:
+                        result.append(line.split('|')[1])  # a hackish way to get rid of numbers
+                    else:
+                        result.append(line)
             return result
 
     langs = ['ar', 'cu', 'el', 'en', 'fr', 'la', 'zh-Hans', 'zh-Hant']
@@ -38,6 +48,22 @@ def gen_text(name, chapter):
 
     return '\n'.join(gen_response())
 
+
+@route('/api/<name>/index')
+def book_index(name):
+    with open('texts_ponomar/%s/%s.text' % (INDEX_BASE_LANG, name)) as f:
+        return json.dumps([line[1:].strip()
+                           for line in f if line.startswith('#')])
+
+
+@route('/api/index')
+def index():
+    """Dynamic file listing (currently not used in favor of index.json)"""
+    return json.dumps([fn[:-5]
+                       for fn in os.listdir('texts_ponomar/%s' % INDEX_BASE_LANG)
+                       if fn.endswith('.text')])
+
+
 @route('/<filename:path>')
 def send_static(filename):
     extension = filename.split('.')[-1]
@@ -48,8 +74,10 @@ def send_static(filename):
     }.get(extension, 'auto')
     return static_file(filename, root='./', mimetype=mimetype)
 
+
 # @route('/js/<filename:re:.*\.js>')
 # def send_static_js(filename):
 #     return static_file(filename, root='js/')
+
 
 run(host='localhost', port=8080, debug=True)

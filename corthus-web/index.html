@@ -12,7 +12,11 @@
     <h1><a href="/">C<em>ORTH</em>US</a></h1>
 
     <ul ng-controller="NavCtrl">
-        <li ng-repeat="link in links"><a href="#/text/{{ link }}">{{ link }}</a></li>
+        <li ng-repeat="link in links" class="cu">
+            <a href="#/text/{{ link.name }}/1">
+                {{ link.title }}
+            </a>
+        </li>
     </ul>
 </section>
 

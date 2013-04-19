@@ -15,6 +15,8 @@ function TextCtrl($scope, $http, $routeParams) {
 
 //    $scope.path = 'texts/kanon_izr.pt2';
 //    $scope.path = 'gen/Jn/1';
+    $scope.name = $routeParams.name;
+    $scope.chapter = $routeParams.chapter;
     $scope.path = $routeParams.name + '/' + $routeParams.chapter;
 
     $http.get('api/' + $scope.path, {
@@ -42,10 +44,20 @@ function TextCtrl($scope, $http, $routeParams) {
             $scope.rungs = data;
         });
 
-//    $scope.langs = ['pl', 'cu', 'el', 'en', 'fr', 'la'];
-    $scope.langs = ['ar', 'cu', 'el', 'en', 'fr', 'la', 'zh-Hans'];
+    $http.get('api/' + $routeParams.name + '/index').success(function (data) {
+            $scope.chapters = data;
+        });
+
+    $scope.langs = [/* 'pl', */ 'ar', 'cu', 'el', 'en', 'fr', 'la', 'zh-Hans'];
+
+    $scope.title = function () {
+        return _.find($scope.links, { name: $scope.name }).title;
+    };
 }
 
-function NavCtrl($scope, $http, $routeParams) {
-    $scope.links = ['Mt/1', 'Mk/1', 'Lk/1', 'Jn/1'];
+function NavCtrl($scope, $http, $rootScope) {
+    $http.get('index.json').success(function (data) {
+        $rootScope.links = data;
+        console.log(data);
+    });
 }

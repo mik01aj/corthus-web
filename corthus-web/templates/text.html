@@ -1,4 +1,11 @@
-<h1>{{ path }}</h1>
+<h1 class="cu">{{ title() }} - {{ chapter }}</h1>
+
+<div class="chapters">
+    <a ng-repeat="c in chapters" class="active-{{ chapter == c }}" href="#/text/{{ name }}/{{ c }}">
+        {{ c }}
+    </a>
+</div>
+
 <table class="align-table">
     <tr ng-repeat="rung in rungs">
         <td ng-repeat="lang in langs" class="{{ lang }}">
