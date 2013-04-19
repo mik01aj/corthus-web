@@ -69,15 +69,18 @@ table.toc tr:hover { background-color: #ffa; }
          background-color: #ffa; }
 
 #nav { position: absolute;
-       left: 1em; top: 1em;
+       left: 0; top: 0;
        width: 12em;
        padding: 1em;
        background-color: #F2EDDF;
        overflow: hidden;
-     }
+       box-shadow: 0 50px 50px rgba(0, 0, 0, 0.05) inset;
+}
 #nav h1 { font-size: 1.9em;
           margin: 0 0 1em;
-          letter-spacing: .15em; }
+          letter-spacing: .15em;
+          text-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
 #nav h1 a { color: black; }
 #nav h1 a:hover { color: #B13030;
                   text-decoration: none; }
@@ -111,9 +114,10 @@ table.toc tr:hover { background-color: #ffa; }
 #nav #correction textarea { width: 100%; height: 15em; }
 
 #content { position: absolute;
-           left: 15em; top: 1em; right: 1em;
+           left: 14em; top: 0; right: 0;
            padding: 1em;
            background-color: #FFFBF0;
+           box-shadow: 0 50px 50px rgba(0, 0, 0, 0.05) inset;
          }
 #content h1 { font-size: 2em;
               margin: 0 0 1em; }

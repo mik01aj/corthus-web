@@ -75,9 +75,4 @@ def send_static(filename):
     return static_file(filename, root='./', mimetype=mimetype)
 
 
-# @route('/js/<filename:re:.*\.js>')
-# def send_static_js(filename):
-#     return static_file(filename, root='js/')
-
-
 run(host='localhost', port=8080, debug=True)

@@ -58,6 +58,5 @@ function TextCtrl($scope, $http, $routeParams) {
 function NavCtrl($scope, $http, $rootScope) {
     $http.get('index.json').success(function (data) {
         $rootScope.links = data;
-        console.log(data);
     });
 }
