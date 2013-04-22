@@ -7,7 +7,8 @@ import os
 # import subprocess
 # process = subprocess.Popen("compass --watch ./css/main.sass:./css/main.css".split(), stdout=subprocess.PIPE)
 
-os.chdir('/home/mik01aj/corthus-web/corthus-web/')
+
+os.chdir(os.path.dirname(__file__))
 
 
 @route('/')
