@@ -1,4 +1,4 @@
-from bottle import route, run, static_file
+from bottle import route, static_file, default_app
 from itertools import izip_longest
 import json
 import os
@@ -6,6 +6,8 @@ import os
 # http://stackoverflow.com/questions/14431012/how-to-convert-sass-on-the-fly-to-css-in-python
 # import subprocess
 # process = subprocess.Popen("compass --watch ./css/main.sass:./css/main.css".split(), stdout=subprocess.PIPE)
+
+os.chdir('/home/mik01aj/corthus-web/corthus-web/')
 
 
 @route('/')
@@ -75,4 +77,5 @@ def send_static(filename):
     return static_file(filename, root='./', mimetype=mimetype)
 
 
-run(host='localhost', port=8080, debug=True)
+application = default_app()
+#run(host='localhost', port=8080, debug=True)
