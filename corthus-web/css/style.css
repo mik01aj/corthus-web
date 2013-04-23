@@ -129,6 +129,7 @@ table.toc tr:hover { background-color: #ffa; }
 #content .info { opacity: 0.5; margin: 2em 0; }
 
 #content .chapters { margin: 2em 0; line-height: 2em; }
-#content .chapters a { padding: .4em; }
+#content .chapters a { padding: .4em;
+    position: relative; z-index: 1; } /* TODO remove this hack (needed on overlap with github ribbon) */
 #content .chapters a:hover { background-color: #F2EDDF; }
 #content .chapters a.active-true { background-color: #F2EDDF; font-weight: bold; color: black; }
