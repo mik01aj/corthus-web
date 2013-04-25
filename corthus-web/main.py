@@ -1,4 +1,4 @@
-from bottle import route, static_file, default_app
+from bottle import route, static_file, default_app, response
 from itertools import izip_longest
 import json
 import os
@@ -49,6 +49,7 @@ def text(name, chapter):
                     yield lang + ' ' + fragment.strip()
             yield ''
 
+    response.content_type = 'text/plain'
     return '\n'.join(gen_response())
 
 
