@@ -6,8 +6,6 @@ body {
 }
 
 p { text-align: left;
-    text-justify: newspaper;
-    text-indent: 1em;
     margin: 0.2em; }
 
 td { padding: 0 1em; }
@@ -128,8 +126,10 @@ table.toc tr:hover { background-color: #ffa; }
 
 #content .info { opacity: 0.5; margin: 2em 0; }
 
-#content .chapters { margin: 2em 0; line-height: 2em; }
-#content .chapters a { padding: .4em;
+#content .link-bar { margin: 2em 0; line-height: 2em; }
+.item { padding: .4em;
     position: relative; z-index: 1; } /* TODO remove this hack (needed on overlap with github ribbon) */
-#content .chapters a:hover { background-color: #F2EDDF; }
-#content .chapters a.active-true { background-color: #F2EDDF; font-weight: bold; color: black; }
+#content .item:hover, #content .item.active { background-color: #F2EDDF; }
+#nav .item:hover, #nav .item.active { background-color: #FFFBF0; }
+.item.active { font-weight: bold; color: black; }
+

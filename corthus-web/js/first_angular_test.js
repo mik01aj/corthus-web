@@ -11,47 +11,46 @@ corthusModule.config(function ($routeProvider) {
         });
 });
 
-function TextCtrl($scope, $http, $routeParams) {
+function TextCtrl($rootScope, $scope, $http, $routeParams) {
 
-//    $scope.path = 'texts/kanon_izr.pt2';
-//    $scope.path = 'gen/Jn/1';
     $scope.name = $routeParams.name;
     $scope.chapter = $routeParams.chapter;
     $scope.path = $routeParams.name + '/' + $routeParams.chapter;
 
-    $http.get('api/' + $scope.path, {
-        transformResponse: function (data) {
-            // parsing PT into Javascript object.
-            return _.map(data.split('\n\n'), function (rungStr) {
-                var rungObj = {};
-                _.forEach(rungStr.split('\n'), function (line) {
-                    if (!line) {
-                        return;
-                    }
-                    var match = line.match(/^([a-zA-Z-]+) (.*)$/); // line format
-                    if (!match) {
-                        console.error("parse error: line does not match: ", line);
-                        return;
-                    }
-                    var list = rungObj[match[1]] || [];
-                    list.push(match[2]);
-                    rungObj[match[1]] = list;
-                });
-                return rungObj;
-            });
-        }
-    }).success(function (data) {
-            $scope.rungs = data;
+    $rootScope.currentTextName = $routeParams.name;
+
+    $http.get('api/' + $scope.path).success(function (data) {
+        _.each($scope.langs, function (settings, lang) {
+            lang.available = false;
         });
+        _.each(data.langs, function(lang) {
+            if (!$scope.langs[lang]) {
+                $scope.langs[lang] = {};
+            }
+            $scope.langs[lang].available = true;
+        });
+        $scope.rungs = data.rungs;
+    });
 
     $http.get('api/' + $routeParams.name + '/index').success(function (data) {
-            $scope.chapters = data;
-        });
+        $scope.chapters = data;
+    });
 
-    $scope.langs = [/* 'pl', */ 'ar', 'cu', 'el', 'en', 'fr', 'la', 'zh-Hans'];
+    // langs are in $rootScope, because we want to remember selected languages when navigating
+    // to another text
+    if (!$rootScope.langs) {
+        // these are just defaults - other languages are hidden by default
+        $rootScope.langs = {
+            cu: { visible: true },
+            el: { visible: true },
+            en: { visible: true },
+            la: { visible: true },
+            pl: { visible: true },
+        };
+    }
 
     $scope.title = function () {
-        return _.find($scope.links, { name: $scope.name }).title;
+        return _.find($scope.links, { name: $routeParams.name }).title;
     };
 }
 

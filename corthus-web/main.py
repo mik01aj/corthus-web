@@ -11,6 +11,18 @@ import os
 os.chdir(os.path.dirname(__file__))
 
 
+class use_json(object):
+    def __init__(self, f):
+        self.f = f
+
+    def __call__(self, *args, **kwargs):
+        response.content_type = 'application/json'
+        return json.dumps(self.f(*args, **kwargs),
+                          ensure_ascii=False,
+                          sort_keys=True,
+                          indent=2)
+
+
 @route('/')
 def hello():
     return open('index.html').read()
@@ -19,14 +31,17 @@ def hello():
 INDEX_BASE_LANG = 'el'
 
 
-@route('/api/<name>/<chapter:re:[0-9]+>')
-def text(name, chapter):
+@route('/api/<name>/<chapter_num:re:[0-9]+>')
+@use_json
+def text(name, chapter_num):
+    # reading text from Ponomar db
     def get_chapter(filename, chapter):
         with open(filename) as f:
             result = []
             on = False
             for line in f:
-
+                # chapter titles start with hash - "#{chapter_num}"
+                # line format: "{verse number}| {verse text}"
                 if not on and line.startswith('#') and line[1:].strip() == chapter:
                     on = True
                 elif on:
@@ -38,34 +53,40 @@ def text(name, chapter):
                         result.append(line)
             return result
 
-    langs = ['ar', 'cu', 'el', 'en', 'fr', 'la', 'zh-Hans', 'zh-Hant']
+    all_langs = ['ar', 'cu', 'el', 'en', 'fr', 'la', 'zh-Hans', 'zh-Hant']
 
-    def gen_response():
-        chapters = [get_chapter('texts_ponomar/%s/%s.text' % (lang, name), chapter)
-                    for lang in langs]
-        for fragments in izip_longest(*chapters):
-            for lang, fragment in zip(langs, fragments):
-                if fragment:  # we may receive nulls from izip_longest
-                    yield lang + ' ' + fragment.strip()
-            yield ''
+    rungs = []
+    langs = []
 
-    response.content_type = 'text/plain'
-    return '\n'.join(gen_response())
+    for lang in all_langs:
+        try:
+            chapter = get_chapter('texts_ponomar/%s/%s.text' % (lang, name), chapter_num)
+        except IOError:
+            continue
+        langs.append(lang)
+        for i, fragment in enumerate(chapter):
+            if len(rungs) < i+1:
+                rungs.append({})
+            rungs[i][lang] = [fragment.strip()]
+
+    return {'langs': langs,
+            'rungs': rungs}
 
 
 @route('/api/<name>/index')
+@use_json
 def book_index(name):
     with open('texts_ponomar/%s/%s.text' % (INDEX_BASE_LANG, name)) as f:
-        return json.dumps([line[1:].strip()
-                           for line in f if line.startswith('#')])
+        return [line[1:].strip()
+                for line in f if line.startswith('#')]
 
 
 @route('/api/index')
 def index():
     """Dynamic file listing (currently not used in favor of index.json)"""
-    return json.dumps([fn[:-5]
-                       for fn in os.listdir('texts_ponomar/%s' % INDEX_BASE_LANG)
-                       if fn.endswith('.text')])
+    return [fn[:-5]
+            for fn in os.listdir('texts_ponomar/%s' % INDEX_BASE_LANG)
+            if fn.endswith('.text')]
 
 
 @route('/<filename:path>')

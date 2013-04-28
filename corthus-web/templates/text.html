@@ -1,14 +1,22 @@
 <h1 class="cu">{{ title() }} - {{ chapter }}</h1>
 
-<div class="chapters">
-    <a ng-repeat="c in chapters" class="active-{{ chapter == c }}" href="#/text/{{ name }}/{{ c }}">
+<div class="link-bar">
+    Chapters:
+    <a ng-repeat="c in chapters" class="item" ng-class="{active: chapter == c}" href="#/text/{{ name }}/{{ c }}">
         {{ c }}
     </a>
 </div>
 
+<div class="link-bar">
+    Languages:
+    <label ng-repeat="(lang, langSettings) in langs" class="item" ng-show="langSettings.available" ng-class="{active: langSettings.visible}">
+        <input type="checkbox" ng-model="langSettings.visible">{{ lang }}
+    </label>
+</div>
+
 <table class="align-table">
     <tr ng-repeat="rung in rungs">
-        <td ng-repeat="lang in langs" class="{{ lang }}">
+        <td ng-repeat="(lang, langSettings) in langs" class="{{ lang }}" ng-show="langSettings.available && langSettings.visible">
             <p ng-repeat="sent in rung[lang]">
                 {{ sent }}
             </p>

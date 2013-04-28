@@ -13,7 +13,7 @@
 
     <ul ng-controller="NavCtrl">
         <li ng-repeat="link in links" class="cu">
-            <a href="#/text/{{ link.name }}/1">
+            <a href="#/text/{{ link.name }}/1" ng-class="{active: (link.name == currentTextName)}" class="item">
                 {{ link.title }}
             </a>
         </li>
