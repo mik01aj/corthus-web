@@ -8,7 +8,7 @@ import os
 # process = subprocess.Popen("compass --watch ./css/main.sass:./css/main.css".split(), stdout=subprocess.PIPE)
 
 
-os.chdir(os.path.dirname(__file__))
+#os.chdir(os.path.dirname(__file__))
 
 
 class use_json(object):
@@ -101,4 +101,17 @@ def send_static(filename):
 
 
 application = default_app()
-#run(host='localhost', port=8080, debug=True)
+
+if __name__ == '__main__':
+    import argparse
+    from bottle import run
+    parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)
+    parser.add_argument('--host', default='localhost', help="Server host")
+    parser.add_argument('--port', '-p', default=8080, help="Server port")
+    parser.add_argument('--debug', action='store_true', help='Use DEBUG=True')
+    parser.add_argument('--reload', action='store_true', help='Auto-reload server')
+    options = parser.parse_args()
+    run(host=options.host,
+        port=options.port,
+        debug=options.debug,
+        reloader=options.reload)
