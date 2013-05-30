@@ -1,0 +1,1126 @@
+{
+  "langs": [
+    "pl", 
+    "cu"
+  ], 
+  "rungs": [
+    {
+      "cu": "Недjь'ля четве'ртая ст~ы'хъ постw'въ. ♦", 
+      "pl": "Niedziela czwarta Świętego Postu. ♦"
+    }, 
+    {
+      "cu": "¶ Въ суббw'ту ве'чера стiхи^ры воскр\\сны г~, и= а=натw'лiевы д~, и= мине'и г~. ♦", 
+      "pl": "¶ W sobotę wieczorem trzy stichery zmartwychwstania, cztery Anatoliosa i trzy z Menei. ♦"
+    }, 
+    {
+      "cu": "И='нiи же послjь'днjьйшiи w=предjьли'ша пjь'тися послjь'дованiю ст~а'гw i=wа'нна лjь'ствичника. ♦", 
+      "pl": "¶ Śpiewamy nabożeństwo świętemu Janowi Klimakowi. ♦"
+    }, 
+    {
+      "cu": "Стiхи^ры, гла'съ и~. ¶", 
+      "pl": "Stichery, ton 8: ¶"
+    }, 
+    {
+      "cu": "Подо'бенъ: ♦", 
+      "pl": "Prosomion: ♦"
+    }, 
+    {
+      "cu": "_W пресла'внагw чудесе`! ♦", 
+      "pl": "O przesławny cud! ♦"
+    }, 
+    {
+      "cu": "¶ _О='тче i=wа'нне прп\\дбне, вы'ну вои'стинну бж~iя въ горта'ни вознош_е'нiя носи'лъ _е=си` поуча'яся дjь'тельнjьйшымъ, бг~одухнов_е'ннымъ словес_е'мъ всему'дре, и= w\\тту'ду и=стека'емою бл~года'тiю w=богати'лся _е=си`, бы'въ бл~же'нъ, нечести'выхъ всjь'хъ совjь'тwванiя низвраща'я. ♦", 
+      "pl": "¶ Czcigodny ojcze Janie, zaiste nieustannie miałeś w ustach Bożą chwałę, ucząc się skutecznie natchnionych przez Boga słów, wszechmądry, i stąd wyciekającą łaską wzbogaciłeś się, błogosławiony, niszcząc wszystkie podstępy nieprawych. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "Подо'бенъ: ¶", 
+      "pl": "Isomelos: ¶"
+    }, 
+    {
+      "cu": "_О='тче i=wа'нне пресла'вне, сле'зъ и=сто'чники ду'шу w=чи'стивъ, и= всено'щными стоя'нiи бг~а о_у=мл\\стививъ, воспери'лся _е=си` къ любле'нiю сегw` бл~же'нне и= красотjь`: _е=я'же досто'йнw ны'нjь наслажда'ешися, непреста'ннw ра'дуяся, со страда'льцы твои'ми бг~ому'дре прп\\дбне. ¶ Подо'бенъ: ♦", 
+      "pl": "Przesławny ojcze Janie, oczyściwszy duszę źródłami łez i ubłagawszy Boga całonocnym staniem, skierowałeś się ku Jego miłowaniu i pięknu, błogosławiony, którymi teraz godnie się rozkoszujesz, nieustannie radując się z cierpiętnikami, mądry w Bogu ojcze. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "pl": "Isomelos: ¶"
+    }, 
+    {
+      "cu": "_О='тче i=wа'нне прп\\дбне, воспери'въ о_у='мъ къ бг~у вjь'рою, мiрска'гw смjьше'нiя w=мерзи'лъ _е=си` непостоя'нное: и= кр\\стъ тво'й воспрiи'мъ, всеви'дцу послjь'довалъ _е=си`: тjь'ло неwбузда'нное, по'двигами w=буче'нiя, по'мыслу порабо'тивъ, крjь'постiю бж~е'ственнагw дх~а. ¶", 
+      "pl": "Czcigodny ojcze Janie, wiarą skierowałeś rozum ku Bogu, obrzydziwszy sobie nietrwałość światowego zamętu, i wziąwszy swój krzyż poszedłeś za Wszechwiedzącym, zniewoliwszy nieposkromione ciało wysiłkami ćwiczeń i myśli, mocą Bożego Ducha. ♦"
+    }, 
+    {
+      "pl": "¶ Chwała. ♦"
+    }, 
+    {
+      "cu": "Сла'ва, гла'съ _е~: ♦ Прп\\дбне _о='тче, гла'са _е=v\\глiа гд\\сня послу'шавъ, мi'ръ w=ста'вилъ _е=си`, бога'тство и= сла'ву нивочто'же вмjьни'въ. ♦", 
+      "pl": "Ton 5: ♦ Czcigodny ojcze, posłuchawszy głosu Ewangelii Pańskiej pozostawiłeś świat, za nic mając bogactwo i sławę. ♦"
+    }, 
+    {
+      "cu": "w\\т_ону'дуже всjь^мъ возопи'лъ _е=си`: возлюби'те бг~а, и= w=бря'щете бл~года'ть вjь'чную. ♦", 
+      "pl": "Przeto do wszystkich zawołałeś: ♦ Umiłujcie Boga, a znajdziecie wieczną łaskę. ♦"
+    }, 
+    {
+      "cu": "ничто'же предпочти'те па'че любве` _е=гw`, да _е=гда` прiи'детъ во сла'вjь свое'й, w=бря'щете о_у=покое'нiе со всjь'ми ст~ы'ми, и='хже мл~твами хр\\сте` сохрани`, и= сп~си` ду'шы на'шя. ¶", 
+      "pl": "Nic nie czcijcie poza Jego miłością, abyście znaleźli odpoczynek gdy przyjdzie w swojej chwale ze wszystkimi świętymi, dla modlitw których, Chryste, zachowaj i zbaw dusze nasze. ¶"
+    }, 
+    {
+      "cu": "И= ны'нjь, бг~оро'диченъ а~-й гла'са. ♦", 
+      "pl": "I teraz. ♦ Pierwszy teotokion tonu. ♦"
+    }, 
+    {
+      "cu": "На стiхо'внjь стiхи^ры _о=смогла'сника. ♦ Сла'ва, прп\\дбнагw, гла'съ в~. ♦", 
+      "pl": "Na stichownnej stichery Oktoechodu. ♦ Chwała. Świętemu Janowi, ton 2. ♦"
+    }, 
+    {
+      "cu": "Самогла'сенъ: ¶", 
+      "pl": "Isomelos: ¶"
+    }, 
+    {
+      "cu": "На земли` а='гг~ла, и= на нб~сjь'хъ человjь'ка бж~iя, мi'ра бл~гоукраше'нiе, наслажде'нiе бл~ги'хъ, добродjь'телей по'стническихъ похвалу`, i=wа'нна почти'мъ: насажде'нъ бо въ дому` бж~iи, процвjьте` пра'веднw, и= jа='кw ке'дръ въ пусты'ни о_у=мно'жи стада` хр\\стw'ва слове'сныхъ _о=ве'цъ, въ преподо'бiи и= пра'вдjь. ♦", 
+      "pl": "Uczcijmy Jana, na ziemi anioła i na niebiosach człowieka Bożego, upiększenie świata, rozkosz dóbr, chwałę cnót postu. ♦ Zasadzony bowiem w domu Bożym, zakwitnął sprawiedliwie i jak cedr w pustyni pomnożył owczarnie duchowych owiec Chrystusa, w sprawiedliwości i świętości. ¶"
+    }, 
+    {
+      "cu": "¶ И= ны'нjь, бг~оро'диченъ, гла'съ то'йже: ♦", 
+      "pl": "I teraz. ♦ Teotokion, ton 2: ♦"
+    }, 
+    {
+      "cu": "_W чудесе` но'вагw: ♦ Ны'нjь w\\тпуща'еши: ♦", 
+      "pl": "O nowy cudzie. ♦ Teraz pozwalasz odejść. ♦"
+    }, 
+    {
+      "cu": "¶ Тропа'рь, гла'съ а~: ♦", 
+      "pl": "¶ Troparion, ton 1: ♦"
+    }, 
+    {
+      "cu": "¶ Пусты'нный жи'тель и= въ тjьлеси` а='гг~лъ, и= чудотво'рецъ jа=ви'лся _е=си` бг~оно'се _о='тче на'шъ i=wа'нне: посто'мъ, бдjь'нiемъ, мл~твою нб\\сная дарова^нiя прiи'мъ, и=сцjьля'еши неду^жныя, и= ду'шы вjь'рою притека'ющихъ ти`. ♦", 
+      "pl": "Pustyni mieszkańcem i w ciele aniołem, cudotwórcą okazałeś się noszący Boga ojcze nasz Janie, postem, czuwaniem, modlitwą przyjąłeś niebieskie dary, uzdrawiasz chorych i dusze z wiarą przybiegające do ciebie. ♦"
+    }, 
+    {
+      "cu": "сла'ва да'вшему ти` крjь'пость: сла'ва вjьнча'вшему тя`: сла'ва дjь'йствующему тобо'ю всjь^мъ и=сцjьл_е'нiя. ¶", 
+      "pl": "Chwała Temu, który dał tobie moc! ♦ Chwała Temu, który ciebie ukoronował. ♦"
+    }, 
+    {
+      "pl": "Chwała Temu, który przez ciebie wszystkim daje uzdrowienia. ¶"
+    }, 
+    {
+      "cu": "На о_у='трени, ♦", 
+      "pl": "Na jutrzni, ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "по _о=бы'чномъ послjь'дованiи канw'ны: воскр\\сный съ бг~оро'дичнымъ, на s~: и= настоя'щiй трiw'ди, на д~: и= ст~а'гw на д~. ♦", 
+      "pl": "po zwykłym początku nabożeństwa kanony: zmartwychwstania i Bogurodzicy na sześć, ¶ Triodionu na cztery i świętego na cztery. ♦"
+    }, 
+    {
+      "cu": "Канw'нъ трипjь'снца, гла'съ _е~. ¶", 
+      "pl": "Kanon trójpieśni, ton 5: ¶"
+    }, 
+    {
+      "cu": "Пjь'снь а~. ♦", 
+      "pl": "Pieśń 1 ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "I=рмо'съ: ♦", 
+      "pl": "Hirmos: ♦"
+    }, 
+    {
+      "pl": "Zbawicielowi Bogu, który w morzu kierował ludem z suchymi nogami i faraona z całym wojskiem zatopił, Jemu jedynemu śpiewajmy, albowiem się wysławił. ¶"
+    }, 
+    {
+      "cu": "Сп~си'телю бг~у: ¶ О_у=подо'бихся хр\\сте` въ ру'цjь разбо'йникwвъ впа'дшему, и= бiе'ньми _е='ле жи'ву w\\т си'хъ w=ста'вленному сп~се: и= а='зъ си'це о_у=я'звленъ _е='смь грjьхи` мои'ми. ♦", 
+      "pl": "Upodobniłem się, Chryste, do człowieka wpadłego w ręce zbójców, którego pobili i porzucili ledwo żywego, Zbawco, i ja tak samo jestem zraniony moimi grzechami. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "Не пре'зри мене` неду'гующа лю'тw, вопiя'ше сп~се рыда'я, на разбw'йники бога'тство и=знури'вый твое`. ♦ и= а='зъ си'це молю'ся: о_у=ще'дри и= сп~си' мя. ♦", 
+      "pl": "Nie pogardzaj mną, strasznie chorym – wołam do Zbawcy płacząc – zbójcom oddałem Twoje bogactwo i tak się modlę: ♦ Ulituj się nade mną i zbaw mnie. ♦"
+    }, 
+    {
+      "cu": "¶ О_у=врачева'вый мя` о_у=бiе'нъ и=му'ща о_у='мъ грjьхи` въ jа='звахъ, w\\т разбо'йникwвъ непра'ведныхъ и= лука'выхъ помышле'нiй, хр\\сте` сп~се, сп~си' мя jа='кw многоми'лостивый. ♦", 
+      "pl": "¶ Ulecz mnie, mającego rozum zabity przez grzechy i w ranach otrzymanych od nieprawych oraz złych zamysłów, Chryste Zbawco, zbaw mnie jako wielce miłosierny. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "Бг~оро'диченъ: ♦", 
+      "pl": "Teotokion: ♦"
+    }, 
+    {
+      "cu": "Преч\\стая мт~и хр\\сто'ва, вопло'щшагося и=з\\ъ тебе`, и= w\\т нjь'дръ роди'теля не w\\тлу'чшася бг~а, непреста'ннw моли`, w\\т вся'кагw w=бстоя'нiя сп~сти`, jа=`же созда`. ¶", 
+      "pl": "Przeczysta Matko Chrystusa, nieustannie módl się do wcielonego w Ciebie i nie odłączającego się od łona Rodzica Boga, aby wybawił z wszelkich nieszczęść swoje stworzenie. ¶"
+    }, 
+    {
+      "cu": "И='ный канw'нъ прп\\дбнагw, гла'съ и~. ♦", 
+      "pl": "Inny kanon świętemu. ♦ Ton 8. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "I=рмо'съ: ♦", 
+      "pl": "Hirmos: ♦"
+    }, 
+    {
+      "cu": "Во'ду проше'дъ jа='кw су'шу: ¶", 
+      "pl": "Wodę przeszedł jak suchy ląd i egipskiego zła uniknął, przeto Izraelita wołał: ♦"
+    }, 
+    {
+      "pl": "Wybawicielowi i Bogu naszemu śpiewajmy. ¶"
+    }, 
+    {
+      "cu": "Во свjь'тъ невеще'ственный и= о_у='мный, w\\т печа'ли веще'ственныхъ восте'къ i=wа'нне прп\\дбне, мл~твами твои'ми ко гд\\су просвjьти' мя. ¶", 
+      "pl": "Ku światu niematerialnemu i duchowemu od boleści materialnych pospieszyłeś czcigodny Janie, oświeć mnie twymi modlitwami do Pana. ¶"
+    }, 
+    {
+      "cu": "Jа='кw воздержа'нiя сла'дость сса'въ, w\\три'нулъ _е=си` го'ресть сласте'й: тjь'мже па'че ме'да и= со'та о_у=слажда'еши _о='тче, чу^вства на^ша. ♦", 
+      "pl": "Ssałeś słodycz wstrzemięźliwości, przeto odrzuciłeś gorycz rozkoszy, ojcze, dajesz więc naszym zmysłom słodycz większą od miodu. ¶"
+    }, 
+    {
+      "cu": "¶ Возше'дъ на высоту` добродjь'телей, до'лjь плjь'жущыя поплева'въ сла^сти, сла'дость jа=ви'лся _е=си` сп~се'нiя, прп\\дбне _о='тче, ста'ду твоему`. ♦", 
+      "pl": "Wstąpiłeś na wysokość cnót i będące w dole pełzające rozkosze oplułeś, czcigodny ojcze, okazując się słodyczą zbawienia dla twojej owczarni. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "Бг~оро'диченъ: ♦", 
+      "pl": "Teotokion: ♦"
+    }, 
+    {
+      "cu": "Прему'дрость и= сло'во _о='ч~ее несказа'ннw ро'ждшая, души` моея` лю'тую о_у=врачу'й jа='зву, и= се'рдца болjь'знь о_у=кроти`. ¶", 
+      "pl": "Ty, któraś Mądrość i Słowo Ojca zrodziła w niewypowiedziany sposób, ulecz okropną ranę mojej duszy i połóż kres boleści serca. ¶"
+    }, 
+    {
+      "cu": "Катава'сiа: ♦", 
+      "pl": "Katabasja: ♦"
+    }, 
+    {
+      "cu": "W\\тве'рзу о_у=ста` моя^: ¶", 
+      "pl": "Otworzę me usta i napełnię się duchem, zaśpiewam mój poemat Matce Króla, świetliście zatryumfuję, i ciesząc się wyśpiewam wszystkie Twoje cuda. ¶"
+    }, 
+    {
+      "cu": "Пjь'снь г~. ♦", 
+      "pl": "Pieśń 3 ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "I=рмо'съ: ♦", 
+      "pl": "Hirmos: ♦"
+    }, 
+    {
+      "cu": "О_у=тверди` ны` бж~е: ¶", 
+      "pl": "Mocą krzyża Twego, Chryste, umocnij moje myśli, abym opiewał i sławił Twoje zmartwychwstanie po trzech dniach. ¶"
+    }, 
+    {
+      "cu": "Путе'мъ житiя` хр\\сте`, лю'тjь путеше'ствуя, о_у=я'звленъ _е='смь w\\т разбw'йникъ въ страсте'хъ: но возста'ви мя` молю'ся. ¶", 
+      "pl": "Drogą życia haniebnie podróżując, Chryste, zraniony zostałem przez zbójców w żądzach, lecz błagam Cię, podnieś mnie. ¶"
+    }, 
+    {
+      "cu": "Разби'ша о_у='мъ мо'й разбо'йницы, и= w=ста'виша мя` въ jа='звахъ _е='ле жи'ва прегрjьше'нiй мои'хъ: но и=сцjьли' мя гд\\си. ¶", 
+      "pl": "Zbójcy rozbili mój rozum i zostawili mnie ledwo żywego w ranach moich grzechów, lecz ulecz mnie, Panie. ¶"
+    }, 
+    {
+      "cu": "W=бнажи'ша мя` сп~се хр\\сте`, за'повjьдей твои'хъ стра^сти, и= сластьми` о_у=язви'хся: но и=зле'й на мя` мл\\сть. ¶", 
+      "pl": "Obnażyły mnie, Zbawco Chryste, zakazane przez Ciebie żądze i zraniły rozkosze, lecz wylej na mnie miłosierdzie. ¶"
+    }, 
+    {
+      "cu": "Бг~оро'диченъ: ♦", 
+      "pl": "Teotokion: ♦"
+    }, 
+    {
+      "cu": "Моли` непреста'ннw ч\\стая, проше'дшаго и=з\\ъ чре'слъ твои'хъ, и=зба'витися ле'сти дiа'воли, пою'щымъ тя` мт~рь бж~iю. ¶ И='ный. ♦", 
+      "pl": "Módl się nieustannie do Tego, który wyszedł z Twego łona, Czysta, abyśmy zostali wybawieni z oszustwa diabła, śpiewający Tobie, Matko Boża. ♦"
+    }, 
+    {
+      "cu": "I=рмо'съ: ♦", 
+      "pl": "¶ Inny hirmos: ♦"
+    }, 
+    {
+      "cu": "Ты` _е=си` о_у=твержде'нiе: ¶ Попали'лъ _е=си` о_у='глемъ w=буче'нiя пресла'внw страсте'й те'рнiе, и= согрjьва'еши мона'шествующихъ состоя^нiя. ♦", 
+      "pl": "Ty jesteś umocnieniem przybiegających do Ciebie, Panie, Ty jesteś światłością omroczonych i Tobie śpiewa duch mój. ♦"
+    }, 
+    {
+      "pl": "¶ Sławnie węglem nauki spaliłeś ciernie żądz i rozgrzewasz zgromadzenie mnichów. ♦"
+    }, 
+    {
+      "cu": "¶ Мv'ро w=сщ~е'нiя w\\т по'стническихъ преподо'бне а=рwма^тъ, ве'сь сложи'лся _е=си` въ воню` бл~гоуха'нiя бж~iя. ♦", 
+      "pl": "¶ Wonny olejek uświęcenia od poszczących, czcigodny aromat, cały złożyłeś się w woń wonności Bożej. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "Въ зако'нjьхъ w=буче'нiя поуча'яся, стра^сти потопи'лъ _е=си`, jа='коже и=ны^я ны'нjь фараwнi'ты, тече'нiемъ сле'зъ твои'хъ. ¶", 
+      "pl": "Ucząc się w prawach nauki potopiłeś żądze, jak obcych teraz żołnierzy faraona, potokiem Twoich łez. ¶"
+    }, 
+    {
+      "cu": "Бг~оро'диченъ: ♦", 
+      "pl": "Teotokion: ♦"
+    }, 
+    {
+      "cu": "О_у=ста'ви мое` непостоя'нное помышле'нiй, ч\\стая, смуще'нiе, мт~и бж~iя, къ сн~у твоему` направля'ющи движе'нiе. ¶", 
+      "pl": "Powstrzymaj wzburzenie moich niestałych myśli, Czysta, kierując mnie, Matko Boża, ku Twemu Synowi. ¶"
+    }, 
+    {
+      "cu": "Сjьда'ленъ, гла'съ _е~. ¶", 
+      "pl": "Katyzma poetycka, ton 4: ¶"
+    }, 
+    {
+      "cu": "Подо'бенъ: ♦", 
+      "pl": "Prosomion: ♦"
+    }, 
+    {
+      "cu": "Стра'нное: ¶", 
+      "pl": "Przedziwnie. ¶"
+    }, 
+    {
+      "cu": "Пречи'стый кр\\стъ тво'й, сп~се на'шъ, jа='кw _о=ру'жiе сп~се'нiя содержа'ще, тjь'мъ тебjь` вопiе'мъ: сп~си' ны пострада'вый во'лею w= на'съ, всjь'хъ бж~е, jа='кw многомл\\стивый. ¶", 
+      "pl": "Trzymając Twój przeczysty krzyż, Zbawco nasz, jako oręż zbawienia, tak Tobie śpiewamy: ♦ Zbaw nas, który dobrowolnie za nas cierpiałeś, Boże wszystkich, jako wielce miłosierny. ♦"
+    }, 
+    {
+      "pl": "¶ Chwała. ♦"
+    }, 
+    {
+      "cu": "Сла'ва, прп\\дбнагw, гла'съ д~. ¶", 
+      "pl": "Świętemu, ton 4: ¶"
+    }, 
+    {
+      "cu": "Подо'бенъ: ♦", 
+      "pl": "Prosomion: ♦"
+    }, 
+    {
+      "cu": "Вознесы'йся: ♦", 
+      "pl": "Wzniosłeś się. ♦"
+    }, 
+    {
+      "cu": "¶ Добродjь'тельми къ нб~си` возсiя'вый, водруже'нъ jа='вjь, возше'лъ _е=си` къ бг~овидjь'нiя неизмjь'римой глубинjь` бл~гоче'стнw: вся^ о_у='бw побjьди'въ де'мwнскiя кw'зни, покрыва'еши же человjь'ки w\\т вре'да си'хъ, i=wа'нне, лjь'ствице добродjь'телей: и= ны'нjь мо'лишися сп~сти'ся рабw'мъ твои^мъ. ♦", 
+      "pl": "¶ Cnotami ku niebu zajaśniałeś, jawnie postawiony, wszedłeś pobożnie w niezmierzonej głębi wizje Boga, zwyciężywszy wszystkie demoniczne podstępy, chroniąc ludzi od ich szkodliwości przez cnoty, Janie Klimaku, i teraz modlisz się o zbawienie sług twoich. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "И= ны'нjь, бг~оро'диченъ. ♦", 
+      "pl": "I teraz. ♦"
+    }, 
+    {
+      "cu": "Подо'бенъ: ¶", 
+      "pl": "Teotokion. Prosomion: ¶"
+    }, 
+    {
+      "cu": "На престо'лjь херувi'мскомъ сjьдя'й, и= въ нjь'дрjьхъ _о='ч~ихъ водворя'яйся, jа='кw на престо'лjь сjьди'тъ ст~jь'мъ свое'мъ вл\\дчце, въ нjь'дрjьхъ твои'хъ пло'тски: бг~ъ бо воцр~и'выйся та'кw над\\ъ всjь'ми jа=зы'ки, и= разу'мнw ны'нjь пое'мъ _е=му`: _е=го'же и= ты` ч\\стая моли`, сп~сти'ся рабw'мъ твои^мъ. ♦", 
+      "pl": "Siedzący na tronie cherubinów i mieszkający w łonie Ojca, cieleśnie siedzi jak na swoim świętym tronie, Władczyni, w Twoim łonie. ♦ Bóg bowiem tak zakrólował nad wszystkimi narodami i rozumnie teraz Jemu śpiewajmy, którego i Ty błagaj, Czysta, aby zbawił sługi Twoje. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "Пjь'снь д~. ♦", 
+      "pl": "Pieśń 4 ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "I=рмо'съ: ♦", 
+      "pl": "Hirmos: ♦"
+    }, 
+    {
+      "cu": "О_у=слы'шахъ гд\\си слу'хъ тво'й: ¶", 
+      "pl": "Usłyszałem wieść o mocy krzyża, że raj otworzył nam, i zawołałem: ♦"
+    }, 
+    {
+      "pl": "Chwała mocy Twojej, Panie! ¶"
+    }, 
+    {
+      "cu": "Разбw'йницы w=крадо'ша мое` дjья'нiе бж~е'ственное, и= w=ста'виша мя` jа='звами му'чима. ♦", 
+      "pl": "Zbójcy ukradli moje Boże czyny i zostawili mnie męczonego przez rany. ¶"
+    }, 
+    {
+      "cu": "¶ И=звлеко'ша мя` сп~се за'повjьдей твои'хъ, непостоя^нная помышл_е'нiя моя^, w\\т_ону'дуже о_у=я'звленъ _е='смь прегрjьше'ньми. ¶", 
+      "pl": "Niestałe moje myśli wyrzuciły mnie z Twoich przykazań, Zbawco, przeto jestem zraniony przez grzechy. ♦"
+    }, 
+    {
+      "cu": "Леvi'тъ ра'нами о_у=я'звленна, jа='кw ви'дjь мя`, ми'мw и='де, сп~се мо'й: но ты' мя сп~си`. ♦", 
+      "pl": "¶ Kapłan zobaczywszy mnie zranionego przeszedł obok, Zbawco mój, lecz Ty mnie zbaw. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "Бг~оро'диченъ: ♦", 
+      "pl": "Teotokion: ♦"
+    }, 
+    {
+      "cu": "Гд\\сственнw прославля'емъ тя` бц\\де безневjь'стная, и= къ твоему` приста'нищу вjь'рнiи прибjьга'емъ. ¶", 
+      "pl": "Wysławiamy Ciebie jako Panią, Bogurodzico Dziewico, i przybiegamy do Twojej przystani, wierni. ¶"
+    }, 
+    {
+      "cu": "И='ный. ♦", 
+      "pl": "Inny hirmos: ♦"
+    }, 
+    {
+      "cu": "I=рмо'съ: ♦ О_у=слы'шахъ гд\\си: ¶", 
+      "pl": "Usłyszałem, Panie, o tajemnicy Twojej Opatrzności, poznałem czyny Twoje i wysławiłem Twoje Bóstwo. ♦"
+    }, 
+    {
+      "cu": "Jа='кw цвjь'тникъ бл~гово'ннjьйшiй, и= добродjь'телей ра'й w=душевле'нный, воздержа'нiе процвjь'лъ _е=си`, и='мже вся^ напита'лъ _е=си` чту'щыя тя`. ♦", 
+      "pl": "¶ Jako wonny kwietnik i uduchowiony raj cnót rozkwitnąłeś wstrzemięźliwością, którą nakarmiłeś wszystkich czczących ciebie. ¶"
+    }, 
+    {
+      "cu": "¶ Законоположи'теля w=буче'нiя, и= мона'хwвъ пра'вило кротча'йшее, jа='кw мwv\"се'а тя` и= дв~да вои'стинну, стяжа'вше _о='тче, о_у=бл~жа'емъ. ¶", 
+      "pl": "Wysławiamy ciebie jako prawodawcę nauczania i najłagodniejszą regułę dla mnichów, jako Mojżesza ciebie i Dawida zaiste zdobywszy, ojcze błogosławiony. ♦"
+    }, 
+    {
+      "cu": "Насажде'нъ на вода'хъ воздержа'нiя, jа=ви'лся _е=си` бл~же'нне, розга` _о='тче бл~гоцвjьту'щая, бл~гоче'стiя гро'зды произнося'щая. ♦", 
+      "pl": "¶ Zasadzony nad wodami wstrzemięźliwości okazałeś się, błogosławiony, kwitnącą rózgą, przynoszącą owoce pobożności, ojcze. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "Бг~оро'диченъ: ♦", 
+      "pl": "Teotokion: ♦"
+    }, 
+    {
+      "cu": "Под\\ъ лjь'томъ быва'ема, w\\т _о=ц~а` безлjь'тнw возсiя'вша, бг~омт~и на'мъ родила` _е=си`: _е=го'же моли` сп~сти` пою'щыя тя`. ¶", 
+      "pl": "Zajaśniałego od Ojca poza czasem, Matka Boża w czasie nam zrodziła, do którego módl się o zbawienie śpiewających Tobie. ¶"
+    }, 
+    {
+      "cu": "Пjь'снь _е~. ♦", 
+      "pl": "Pieśń 5 ♦"
+    }, 
+    {
+      "pl": "¶ Hirmos: ♦"
+    }, 
+    {
+      "cu": "¶ I=рмо'съ: о_у='тренююще вопiе'мъ ти`: ¶", 
+      "pl": "Od poranka wołamy do Ciebie, Panie: ♦"
+    }, 
+    {
+      "pl": "Zbaw nas, Ty bowiem jesteś Bogiem naszym, poza Tobą innego nie znamy. ¶"
+    }, 
+    {
+      "cu": "I=и~се, посjьти` ра^ны души` моея`, jа='коже дре'вле въ ру'цjь впа'дшагw разбw'йничи, и= о_у=врачу'й болjь'знь мою` хр\\сте`, молю'ся. ¶", 
+      "pl": "Jezu, nawiedź rany mojej duszy, proszę, jak dawno temu wpadłego w ręce zbójców, i ulecz moją chorobę, Chryste. ¶"
+    }, 
+    {
+      "cu": "Болjь'зненнw jа='звами и=знемого'хъ, хр\\сте` мо'й, прегрjьше'нiй, и= w\\тту'ду на'гъ лежу` добродjь'телей бж~е'ственныхъ: молю`, сп~си' мя. ¶", 
+      "pl": "Zaniemogłem chorobliwie od ran grzechów, Chryste mój, i stąd nagi leżę bez cnót Bożych błagając, abyś mnie zbawił. ♦"
+    }, 
+    {
+      "cu": "I=ере'й jа='коже ви'дjь мя`, и= леvi'тъ не возмо'же jа='вjь, мимоидо'ша бо мя`: но са'мъ jа='кw бл~гоутро'бенъ, ны'нjь сп~се'нiе по'далъ, и= сп~слъ _е=си`. ♦", 
+      "pl": "¶ Kapłan, gdy mnie zobaczył i lewita, nie pomogli przechodząc obok, ale Ty sam jako łaskawy dałeś teraz zbawienie i zbawienie. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "Бг~оро'диченъ: ♦", 
+      "pl": "Teotokion: ♦"
+    }, 
+    {
+      "cu": "Не пре'зри вл\\дко _о=кая'ннагw мене`, молю'ся, о_у=я'звленнагw о_у=мо'мъ болjь'зненнw w\\т разбw'йникъ: но о_у=ще'дри мл~твами сп~се, ро'ждшiя тя`. ¶ И='ный. ♦", 
+      "pl": "Nie pogardzaj, Władco, mną nieszczęsnym, błagam, mającym boleśnie zraniony rozum przez zbójców, ale ulituj się nade mną, Zbawco, dla modlitw Twojej Rodzicielki. ♦"
+    }, 
+    {
+      "pl": "¶ Inny hirmos: ♦"
+    }, 
+    {
+      "cu": "I=рмо'съ: ♦ Вску'ю мя` w\\три'нулъ _е=си`: ¶", 
+      "pl": "Całego odrzuciłeś mnie od oblicza Twego, Światłości Niezachodząca, i okryła mnie, nieszczęsnego, obca ciemność, ale proszę Cię, nawróć mnie i skieruj ku światłości drogi przykazań Twoich. ♦"
+    }, 
+    {
+      "cu": "Погаси'въ вся^ стра^сти, росо'ю подвигw'въ твои'хъ _о='тче бл~же'нне, _о=би'льнw возже'гъ _о=гне'мъ любве` и= вjь'ры, воздержа'нiя свjьти'льникъ, и= просвjьще'нiе безстра'стiя, и= дне` сы'нъ бы'лъ _е=си`. ¶", 
+      "pl": "¶ Wygasiwszy wszystkie żądze rosą twoich wysiłków, ojcze błogosławiony, obficie zapłonąłeś ogniem miłości i wiary, stając się światłem wstrzemięźliwości, oświeceniem beznamiętności i synem dnia. ♦"
+    }, 
+    {
+      "cu": "Вjь'ры гро'здъ, бж~е'ственнымъ земледjь'лiемъ твои'мъ _о='тче воспита'лъ _е=си`, и= въ точи^ла вложи'лъ _е=си`, и= воздjь'лалъ _е=си` труды` w=буче'нiя,и= ча'шу и=спо'лнь дх~о'вную воздержа'нiя: весели'ши сердца` ста'да твоегw`. ♦", 
+      "pl": "¶ Przez twoją Bożą uprawę ziemi wyhodowałeś szczep winny, ojcze, i włożyłeś do tłoczni, tłoczyłeś trudy nauki i napełniłeś duchowy kielich wstrzemięźliwości, weseląc serca twojej owczarni. ¶"
+    }, 
+    {
+      "cu": "¶ Претерпjь'въ до'брjь прило'ги и= jа='звы проти'вныхъ врагw'въ, jа=ви'лся _е=си` сто'лпъ терпjь'нiя, о_у=твержда'я ста'до твое` па'лицею бж~е'ственною, на па'жити воздержа'нiя, и= на водjь` воспитова'я бл~же'нне. ♦", 
+      "pl": "Dobrze zniosłeś podstępy i rany wrogów, okazałeś się kolumną cierpliwości, umacniając twoją owczarnię Bożą laską na pastwisku wstrzemięźliwości oraz nad wodami nauki wychowując, błogosławiony. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "Бг~оро'диченъ: ♦", 
+      "pl": "Teotokion: ♦"
+    }, 
+    {
+      "cu": "Рjь'чемъ твои'хъ о_у=сте'нъ всеч\\стая послjь'дующе, тя` о_у=бл~жа'емъ: съ тобо'ю бо вои'стинну вели^чiя сотвори'вый гд\\сь возвели'чи тя`, и= и='стинную бж~iю мт~рь, рожде'йся и=з\\ъ чре'ва твоегw` показа`. ¶", 
+      "pl": "Naśladując mowy Twoich warg, Najczcigodniejsza, błogosławimy Ciebie, Tobie bowiem zaiste rzeczy wspaniałe uczynił Pan, wywyższając Ciebie i prawdziwą Matką Bożą okazał Ciebie zrodzony z Twego łona. ¶"
+    }, 
+    {
+      "cu": "Пjь'снь s~. ♦", 
+      "pl": "Pieśń 6 ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "I=рмо'съ: ♦", 
+      "pl": "Hirmos: ♦"
+    }, 
+    {
+      "cu": "W=бы'де мя` бе'здна: ¶ Страстьми` и=жди'хъ житiе` бж~е'ственное вл\\дко, и= вся'кw прегрjьше'ньми лю'тjь о_у=я'звенъ, прибjьго'хъ къ тебjь`: о_у=ще'дри мя`, молю'ся. ♦", 
+      "pl": "Otoczyła mnie otchłań, grobem moim jest wieloryb, ja zaś zawołałem do Ciebie, Przyjacielu człowieka, i zbawiła mnie prawica Twoja, Panie. ♦"
+    }, 
+    {
+      "cu": "¶ Расхи'тиша бога'тство мое`, и= jа='коже ме'ртва мя` w=ста'виша разбw'йницы, страстьми` о_у='мъ мо'й о_у=язви'вше: но о_у=ще'дривъ сп~си' мя гд\\си. ♦", 
+      "pl": "¶ Przez żądze roztrwoniłem Boże życie, Władco, będąc boleśnie zranionym wszelkimi grzechami, przybiegłem do Ciebie błagając, abyś ulitował się nade mną. ♦"
+    }, 
+    {
+      "cu": "¶ Jа='кw ви'дjь леvi'тъ мою` ра^нъ болjь'знь, jа='звъ не терпя`, мимои'де мя`: са'мъ же чл~вjьколю'бче, и=злiя'лъ ми` _е=си` бога'тую твою` мл\\сть. ♦", 
+      "pl": "¶ Zbójcy rozkradli moje bogactwo i zostawili mnie jak martwego, zraniwszy żądzami mój rozum, ale ulitowawszy się nade mną zbaw mnie, Panie. ♦"
+    }, 
+    {
+      "pl": "¶ Chociaż lewita zobaczył chorobę moich ran, to nie znosząc ran przeszedł obok, a Ty sam, Przyjacielu człowieka, wylałeś mi obficie Twoje miłosierdzie. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "Бг~оро'диченъ: ♦", 
+      "pl": "Teotokion: ♦"
+    }, 
+    {
+      "cu": "Купину' тя неwпали'мую, и= го'ру, и= лjь'ствицу w=душевле'нную, и= две'рь нб\\сную, досто'йнw сла'вимъ, мр~i'е пресла'вная, правосла'вныхъ похвало`. ¶", 
+      "pl": "Godnie sławimy Ciebie, Mario, jako krzew niespalający się i górę, uduchowioną drabinę i bramę niebios, sławna chlubo prawosławnych. ♦"
+    }, 
+    {
+      "cu": "И='ный. ♦ I=рмо'съ: ♦", 
+      "pl": "¶ Inny hirmos: ♦"
+    }, 
+    {
+      "cu": "W=чи'сти мя` сп~се: ¶ Прiя'лъ _е=си` въ души` бж~е'ственное бога'тство дх~а, непоро'чную мл~тву, чистоту`, че'стность, бдjь'нiе всегда'шнее, воздержа'нiя труды`, и='миже до'мъ позна'лся _е=си` бж~iй. ♦", 
+      "pl": "Oczyść mnie, Zbawco, wielkie są bowiem nieprawości moje i wyprowadź z głębi zła, błagam, do Ciebie bowiem zawołałem i usłyszałeś mnie, Boże zbawienia mego. ♦"
+    }, 
+    {
+      "cu": "¶ Вещества` _е='же до'лjь, прему'дре, прете'клъ _е=си` ху'дость, невеще'ственною же мл~твою о_у='мъ воспери'въ, и= вы'шнягw о_у=покое'нiя jа=ви'лся _е=си` наслjь'дникъ, соверше'нства ра'ди житiя`. ♦", 
+      "pl": "¶ Przyjąłeś w duszy Boże bogactwo Ducha, nieskalaną modlitwę, czystość, bogobojność, ciągłe czuwanie i trudy wstrzemięźliwości, przez które zostałeś poznany jako dom Boży. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "По'тами по'стническими о_у='глiе стрjь'лъ вра'жiихъ о_у=гаси'лъ _е=си` вои'стинну, и= _о='гнь вjь'ры возсiя'въ, попали'лъ _е=си` невjь'рiя, _е=ресе'й шата^нiя. ¶", 
+      "pl": "Ominąłeś słabość niskich rzeczy, o najmędrszy, niematerialną zaś modlitwą uskrzydliłeś rozum i okazałeś się dziedzicem wyższego spokoju ze względu na doskonałe życie. ¶"
+    }, 
+    {
+      "pl": "Potem postu zaiste wygasiłeś ogniste strzały wrogów i zapaliwszy ogień wiary popaliłeś zuchwałość niewiary i herezji. ¶"
+    }, 
+    {
+      "cu": "Бг~оро'диченъ: ♦", 
+      "pl": "Teotokion: ♦"
+    }, 
+    {
+      "cu": "Возсiя` w\\т сiw'на вы'шнягw бл~голjь'пiе, предложе'нiемъ пло'ти по соедине'нiю неизрече'нному, и=з\\ъ тебе` неискусобра'чная w=бложе'нное, и= мi'ръ просвjьти`. ¶", 
+      "pl": "Z wysokiego Syjonu zajaśniała wspaniałość przez przyjęcie ciała według niewypowiedzianego zjednoczenia, z Ciebie, nieznająca małżeństwa, i oświeca świat. ¶"
+    }, 
+    {
+      "cu": "Конда'къ, гла'съ д~. ♦", 
+      "pl": "Kontakion, ton 4: ♦"
+    }, 
+    {
+      "pl": "¶"
+    }, 
+    {
+      "cu": "Подо'бенъ: ♦", 
+      "pl": "Prosomion: ♦"
+    }, 
+    {
+      "cu": "Jа=ви'лся _е=си` дне'сь: ¶", 
+      "pl": "Objawiłeś się dzisiaj. ¶"
+    }, 
+    {
+      "cu": "На высотjь` гд\\сь воздержа'нiя и='стинна тя` положи`, jа='коже sвjьзду` неле'стную, свjьтоводя'щую концы`, наста'вниче i=wа'нне _о='тче на'шъ. ¶", 
+      "pl": "Pan postawił ciebie na wysokości prawdziwej wstrzemięźliwości, jak gwiazdę bez podstępu, prowadzącą swoją światłością krańce świata, przewodniku Janie, ojcze nasz. ¶"
+    }, 
+    {
+      "cu": "I='косъ: ♦", 
+      "pl": "Ikos: ♦"
+    }, 
+    {
+      "cu": "До'мъ бж~iй jа='кw вои'стинну, самаго` себе` содjь'лалъ _е=си` _о='тче, бж~е'ственными твои'ми добродjь'тельми: jа='вjь о_у=краси'въ jа='кw зла'то свjь'тлое, вjь'ру, наде'жду, и= любо'вь и='стинную: бж~е'ств_енныя зако'ны и=злага'я, воздержа'нiемъ w=бучи'вся jа='кw безпло'тный: ра'зумъ, му'жество, цjьлому'дрiе стяжа'въ, смире'нiе, и='мже возне'слся _е=си`. ♦ тjь'мже и= просвjьти'лся _е=си` мл~твами непреста'нными, и= нб\\сная прiя'лъ _е=си` сел_е'нiя, наста'вниче i=wа'нне _о='тче на'шъ. ♦", 
+      "pl": "Zaiste samego siebie uczyniłeś domem Bożym, ojcze, przez twoje Boże cnoty, jawnie jak złotem błyszczącym ozdobiwszy się wiarą, nadzieją i miłością prawdziwą, tłumacząc Boże prawa, przez wstrzemięźliwość pouczywszy jak bezcielesny. ♦ Zdobyłeś rozum, męstwo, niewonność i pokorę, przez którą wzniosłeś się, przeto i oświeciłeś się nieustannymi modlitwami i przyjąłeś niebieskie mieszkania, przewodniku Janie, ojcze nasz. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "Та'же чте'тся сv\"на_кса'рiи дневны'й. ♦", 
+      "pl": "Czytanie synaksarionu dnia. ¶"
+    }, 
+    {
+      "cu": "¶ Посе'мъ житiе` прп\\дбнагw _о=тца` на'шегw i=wа'нна лjь'ствичника, въ ми'рjь сконча'вшагwся. ♦", 
+      "pl": "Także żywot czcigodnego ojca naszego Jana Klimaka, zmarłego w pokoju. ¶"
+    }, 
+    {
+      "cu": "Стiхи`: ♦", 
+      "pl": "Stichosy: ♦"
+    }, 
+    {
+      "cu": "¶ И='же пло'тiю и= живы'й, ме'ртвъ сы'й i=wа'ннъ, ♦", 
+      "pl": "Ciałem i żywy, martwy jest Jan, ¶"
+    }, 
+    {
+      "cu": "¶ Вjь'чнw живе'тъ, и= ме'ртвъ jа='влься бездыха'нный: ¶", 
+      "pl": "Wiecznie żyje i martwy okazuje się bez oddechu, ♦"
+    }, 
+    {
+      "cu": "Списа'нiе w=ста'вль лjь'ствицу восхожде'нiя, ¶", 
+      "pl": "¶ Spisaną zostawiwszy drabinę wstępowania, ♦"
+    }, 
+    {
+      "cu": "Показу'етъ своегw` пу'ть восхожде'нiя. ¶", 
+      "pl": "¶ Pokazuje drogę swego wstępowania, ♦"
+    }, 
+    {
+      "cu": "I=wа'ннъ о_у='мре въ тридеся'тый де'нь. ¶"
+    }, 
+    {
+      "cu": "И='же шестина'десяти лjь'тъ сы'й, и= _о=строу'мный сы'й, принесе` себе` бг~у же'ртву сщ~е'ннjьйшую, на сiна'йскую го'ру возше'дъ. ♦ Та'же по девятина'десятихъ лjь'тjьхъ воста'въ прихо'дитъ въ безмо'лвiя по'прище w\\т пяти` зна'менiи кv\"рiа'ка: во _о=би'тель пале'стры дости'гъ, на мjь'сто глаго'лемое fw'ла, четы'редесять лjь'тъ пожи'въ, при'снw разжига'емь любо'вiю, и= _о=гне'мъ бж~е'ственныя любве`. ♦"
+    }, 
+    {
+      "cu": "Jа=дя'ше о_у='бw вся^, jа=`же непоро'чнw присто'яху за'повjьди, но о_у=мjь'реннw sjьлw`, и= въ се'мъ го'рдости ро'гъ сломля'я всепрему'дрw. ♦ Но и=сто'чникъ сле'зъ _е=гw` кi'й о_у='мъ и=зре'клъ бы; ♦"
+    }, 
+    {
+      "cu": "Сна' же причаща'шеся, _е=ли'кw о_у=ма` существу` бдjь'нiемъ не вреди'тися. ♦", 
+      "pl": "¶ Jan umarł trzydziestego dnia. ¶"
+    }, 
+    {
+      "cu": "Тече'нiе же _е=гw` мл~тва бя'ше при'сная, и= къ бг~у любо'вь безмjь'рная. ♦", 
+      "pl": "Dla jego modlitwa, Boże, zmiłuj się i zbaw nas. ♦ Amen. ♦"
+    }, 
+    {
+      "cu": "Си'ми всjь'ми бг~оуго'днw пожи'въ и=справле'ньми, и= лjь'ствицу списа'вый, словеса` о_у=че'нiя и=зложи'въ, и= и=спо'лненъ бл~гости досто'йнw о_у=поко'ися въ гд\\сjь, мнw'га и= и=на^я списа^нiя w=ста'вивъ. ♦ _Е=гw'же мл~твами бж~е поми'луй, и= сп~си` на'съ. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "Пjь'снь з~. ♦", 
+      "pl": "Pieśń 7 ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "I=рмо'съ: ♦", 
+      "pl": "Hirmos: ♦"
+    }, 
+    {
+      "cu": "Превозноси'мый _о=тц_е'въ: ¶", 
+      "pl": "Wywyższany ojców Pan płomień wygasił, młodzieńców rosą zrosił, zgodnie śpiewających: ♦"
+    }, 
+    {
+      "pl": "Boże, błogosławiony jesteś. ¶"
+    }, 
+    {
+      "cu": "Разбw'йницы w=бпадо'ша на мя` _о=кая'ннаго, и= jа='звами w=ста'виша ме'ртва, jа='коже бездыха'нна мя`, тjь'мже молю'ся ти`: бж~е, посjьти' мя. ¶", 
+      "pl": "Zbójcy napadli na mnie, nieszczęsnego, i rannego pozostawili jak martwego bez oddechu, przeto modlę się do Ciebie: ♦ Boże, nawiedź mnie. ♦"
+    }, 
+    {
+      "cu": "О_у='мъ мо'й плjьни'ша помышл_е'нiя непостоя^нная, и= о_у=язви'вше страстьми`, ме'ртва мя` w=ста'виша, мно'жествомъ прегрjьше'нiй, но сп~се, и=сцjьли' мя. ¶", 
+      "pl": "¶ Mój rozum zniewoliły zmienne myśli i zraniwszy żądzami pozostawiły mnie martwego z powodu mnóstwa grzechów, lecz Ty ulecz mnie, Zbawco. ♦"
+    }, 
+    {
+      "cu": "Jа='кw ви'дjь леvi'тъ мя` ра'нами боля'ща, не терпя` jа='звъ неисцjь'льнагw ра'ди, мимои'де мя`, сп~се мо'й: но са'мъ о_у=врачу'й мя`. ♦", 
+      "pl": "¶ Lewita ujrzał mnie cierpiącego w ranach, ale nie znosząc ran nieuleczalnych przeszedł obok mnie, Zbawco mój, przeto sam ulecz mnie. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "Бг~оро'диченъ: ♦", 
+      "pl": "Teotokion: ♦"
+    }, 
+    {
+      "cu": "Ты` w\\т дв~ы воплоти'выйся, спа'слъ мя` _е=си`, jа='звамъ мои^мъ возлива'я бога'тую мл\\сть, хр\\сте` щедрw'тъ твои'хъ: сегw` ра'ди тя` сла'влю. ¶", 
+      "pl": "Ty, który wcieliłeś się w Dziewicę, zbawiłeś mnie wylewając na moje rany obfite miłosierdzie Twoich zmiłowań, Chryste, przeto sławię Ciebie. ♦"
+    }, 
+    {
+      "pl": "¶ Inny hirmos: ♦"
+    }, 
+    {
+      "cu": "И='ный. ♦ I=рмо'съ: ♦ W\\т i=уде'и доше'дше: ♦", 
+      "pl": "Dzieci żydowskie w Babilonie niegdyś wiarą w Trójcę płomień w piecu zdeptały, śpiewając: ♦"
+    }, 
+    {
+      "pl": "Ojców Boże, błogosławiony jesteś. ¶"
+    }, 
+    {
+      "cu": "¶ На sла'цjь вы'шнягw цр\\ствiя, ста'до _о='тче воспита'лъ _е=си` и= жезло'мъ догма^тъ sвjь'ри w\\тгна'въ _е=ресе'й, воспjь'лъ _е=си`: _о=т_е'цъ на'шихъ бж~е бл~гослове'нъ _е=си`. ♦", 
+      "pl": "Na pastwisku wyższego królestwa wychowałeś twoją owczarnię, ojcze, i laską dogmatów wiary odpędziwszy herezje, zaśpiewałeś: ♦ Ojców naszych Boże, błogosławiony jesteś. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "Въ го'рнiй вше'лъ _е=си` и= невjь'стническiй черто'гъ цр\\ства хр\\сто'ва, _о=де'ждею w=блече'нъ досто'йною зва'вшагw, въ не'мже и= возле'глъ _е=си`, вопiя`: _о=т_е'цъ на'шихъ бж~е бл~гослове'нъ _е=си`. ♦", 
+      "pl": "Przyobleczony w szaty godne wzywającego, wszedłeś do komnaty małżeńskiej królestwa Chrystusa na wysokościach, w której spocząłeś wołając: ♦ Ojców naszych Boże, błogosławiony jesteś. ¶"
+    }, 
+    {
+      "cu": "¶ Невла'жная грjьхми`, рjька` jа=ви'лся _е=си` воздержа'нiя _о='тче, по'мыслы потопля'я, и= скве'рну w=чища'я, вопiю'щихъ вjь'рою: _о=т_е'цъ на'шихъ бж~е бл~гослове'нъ _е=си`. ♦", 
+      "pl": "Przez wstrzemięźliwość okazałeś się suchą rzeką dla grzechów, ojcze, zatapiając marzenia i oczyszczając skalanie wołających z wiarą: ♦ Ojców naszych Boże, błogosławiony jesteś. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "Бг~оро'диченъ: ♦", 
+      "pl": "Teotokion: ♦"
+    }, 
+    {
+      "cu": "И=з\\ъ чре'ва твоегw` про'йде воплоти'выйся дв~о, всjь'хъ гд\\сь: тjь'мже тя` бц\\ду му'дрствующе правосла'внw, сн~у твоему` зове'мъ: _о=т_е'цъ на'шихъ бж~е бл~гослове'нъ _е=си`. ♦", 
+      "pl": "Z Twego łona przyszedł wcielony Pan wszystkich, Dziewico, przeto myśląc o Tobie prawosławnie, Bogurodzico, wołamy do Twego Syna: ♦ Ojców naszych Boże, błogosławiony jesteś. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "Пjь'снь и~. ♦", 
+      "pl": "Pieśń 8 ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "I=рмо'съ: ♦", 
+      "pl": "Hirmos: ♦"
+    }, 
+    {
+      "cu": "Тебjь` вседjь'телю: ¶", 
+      "pl": "Tobie, Stwórco wszystkich, młodzieńcy w piecu uczyniwszy chór, śpiewali: ♦"
+    }, 
+    {
+      "pl": "Wszystkie dzieła Pana, śpiewajcie i wywyższajcie na wszystkie wieki. ¶"
+    }, 
+    {
+      "cu": "W\\т разбw'йникъ по'мыслwвъ мои'хъ сп~се, растли'хъ житiе` мое` согрjьше'нiй jа='звами. ♦ тjь'мже бж~е'ственнагw w=бнажи'хся w='браза, тебе` чл~вjьколюби'вагw бг~а: но о_у=ще'дри мя`. ¶", 
+      "pl": "Z powodu moich zbójeckich myśli, Zbawco, zniszczyłem moje życie ranami grzechów, przeto pozbawiłem się obrazu Bożego, Ciebie Boga przyjaznego człowiekowi, ale ulituj się nade mną. ♦"
+    }, 
+    {
+      "cu": "Прише'лъ _е=си` на зе'млю w\\т вы'шнихъ сп~се, о_у=ще'дривъ бiе'ньми о_у=ра'неннаго мя` всего` прегрjьше'нiй jа='звами ще'дре, и= и=злiя'лъ _е=си` на мя` хр\\сте`, мл\\сть твою`. ♦", 
+      "pl": "¶ Przyszedłeś na ziemię z wysokości, Zbawco, ulitowawszy się nade mną, bitym przez grzechy i zranionym, Szczodry, i wylałeś na mnie, Chryste, Twoje miłosierdzie. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "Тjь'ло и= ду'шу ты` вл\\дко сп~се, и=зба'ву да'лъ _е=си` за мя`, и= сп~слъ мя` _е=си`, мече'мъ грjьхw'въ о_у=язвле'наго, въ неисцjь'льныхъ jа='звахъ, jа='кw мл\\стивый. ¶", 
+      "pl": "Ty, Władco Zbawco, ciało i duszę dałeś na wybawienie za mnie i zbawiłeś mnie jako miłosierny, zranionego mieczem grzechów, leżącego w niewyleczonych ranach. ¶"
+    }, 
+    {
+      "cu": "Бг~оро'диченъ: ♦", 
+      "pl": "Teotokion: ♦"
+    }, 
+    {
+      "cu": "Тя` па'че о_у=ма` бг~ому'жнымъ сло'вомъ ро'ждшую гд\\са и= дв~ствующую, вся^ дjьла` дв~о бл~гослови'мъ и= превозно'симъ во вся^ вjь'ки. ¶ И='ный. ♦", 
+      "pl": "Ciebie, któraś na słowo Boże zrodziła Pana i jesteś Dziewicą, co przewyższa rozum, wszystkie dzieła błogosławimy i wywyższamy na wszystkie wieki. ♦"
+    }, 
+    {
+      "pl": "¶ Inny hirmos: ♦"
+    }, 
+    {
+      "cu": "I=рмо'съ: ♦ Цр~я` нб\\снагw: ¶", 
+      "pl": "Króla niebios, któremu śpiewają zastępy anielskie, chwalcie i wywyższajcie na wszystkie wieki. ♦"
+    }, 
+    {
+      "cu": "Сто'лпъ тя` w=душевле'нный jа='кw вои'стинну, и= w='бразъ воздержа'нiя _о='тче стяжа'вше, вси` твою` па'мять почита'емъ i=wа'нне. ¶", 
+      "pl": "¶ Zdobyliśmy ciebie, ojcze, zaiste jako uduchowioną kolumnę i wzór wstrzemięźliwości, wszyscy czcimy twoją pamięć, Janie. ♦"
+    }, 
+    {
+      "cu": "Мно'жество ра'дуется мона'хwвъ, и= лику'етъ прп\\дбныхъ собо'ръ и= прв\\дныхъ вjьне'цъ бо досто'йнw съ ни'ми прiя'лъ _е=си`. ♦", 
+      "pl": "¶ Raduje się mnóstwo mnichów i weseli się zgromadzenie sprawiedliwych, bowiem wraz z nimi godnie przyjąłeś koronę. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "О_у=кра'шенъ добродjь'тельми, въ невjь'стникъ неизрече'нныя сла'вы соше'лъ _е=си`, пjь'снь воспjьва'я хр\\сту` во вjь'ки. ¶", 
+      "pl": "Ozdobiony cnotami wszedłeś do komnaty weselnej niewypowiedzianej chwały, śpiewając Chrystusowi pieśń na wieki. ¶"
+    }, 
+    {
+      "cu": "Бг~оро'диченъ: ♦", 
+      "pl": "Teotokion: ♦"
+    }, 
+    {
+      "cu": "По'мощи jа='же w\\т тебе` тре'бующыя не пре'зри дв~о, пою'щыя и= превознося'щыя тя` во вjь'ки. ¶", 
+      "pl": "Nie pogardzaj, Dziewico, potrzebującymi Twojej pomocy, śpiewającymi i wywyższającymi Ciebie na wieki. ¶"
+    }, 
+    {
+      "cu": "Пjь'снь f~. ♦", 
+      "pl": "Pieśń 9 ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "I=рмо'съ: ♦", 
+      "pl": "Hirmos: ♦"
+    }, 
+    {
+      "cu": "И=са'iе лику'й: ¶"
+    }, 
+    {
+      "cu": "За'пwвjьди твоя^ вл\\дко, не сохрани'въ ра'зумомъ мои'мъ, въ стра^сти вше'дъ сласте'й, w=бнажи'хся бл~года'ти, и= jа='звами и=зве'рженъ на'гъ. ♦ тjь'мже молю' тя сп~се, сп~си' мя. ♦", 
+      "pl": "Izajaszu, wesel się, oto Dziewica poczęła w łonie i rodzi Syna Emanuela, Boga i Człowieka, Wschód jest imię Jego. ♦ Jego wywyższając, Dziewicę uwielbiamy. ♦"
+    }, 
+    {
+      "cu": "¶ Ниже` леvi'тъ возмо'же w\\тмы'ти стру'пы моя^: но прише'лъ _е=си` ко мнjь` бл~же сострада'тельнw, и= и=злiя'лъ _е=си` мл\\сть твои'хъ щедрw'тъ сп~се на мя`, jа='кw всеизря'дный вра'чь и=сцjьля'я мя`. ♦", 
+      "pl": "¶ Twoich przykazań, Władco, nie zachowałem w moim umyśle, wszedłem w rozkosz żądz, pozbawiłem się łaski i pokryty ranami zostałem wyrzucony nagi, przeto modlę się do Ciebie, Zbawco, zbaw mnie. ♦"
+    }, 
+    {
+      "cu": "¶ Jа='кw сы'й бл~гоутро'бенъ, о_у=ще'дривъ сп~слъ _е=си` хр\\сте`, jа='звами лю'тjь w\\т разбw'йникъ сп~се о_у=бiе'на мя`: ду'шу же и= тjь'ло свое`, jа='кw дiнаря` два` да'лъ _е=си` и=збавле'нiе. ♦", 
+      "pl": "¶ Lewita nie zechciał obmyć moich ran, ale przyszedłeś do mnie, Boże, ze współczuciem i wylałeś na mnie miłosierdzie Twoich zmiłowań, jako doskonały Lekarz uleczając mnie. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "pl": "Jako łaskawy ulitowawszy się zbawiłeś mnie, Chryste, okrutnie do ran pobitego przez zbójców, swoją duszę i ciało jak dwa denary dałeś na zbawienie. ¶"
+    }, 
+    {
+      "cu": "Бг~оро'диченъ: ♦", 
+      "pl": "Teotokion: ♦"
+    }, 
+    {
+      "cu": "Па'че о_у=ма` рж\\ство` твое` бг~омт~и, без\\ъ му'жа бо зача'тiе въ тебjь`, и= дjь'вственно рожде'нiе бы'сть: и='бо бг~ъ _е='сть рожде'йся, _е=го'же велича'юще, тя` дв~о о_у=бл~жа'емъ. ¶", 
+      "pl": "Twoje zrodzenie, Bogurodzico, przewyższa rozum, poczęłaś bowiem w sobie bez męża i dziewicze jest Twoje zrodzenie, albowiem zrodził się Bóg, którego wysławiając Ciebie błogosławimy. ¶"
+    }, 
+    {
+      "cu": "И='ный. ♦", 
+      "pl": "Inny hirmos: ♦"
+    }, 
+    {
+      "cu": "I=рмо'съ: ♦ Ч\\стую сла'внw почти'мъ: ¶", 
+      "pl": "Zaprawdę wyznajemy Ciebie jako Bogurodzicę, przez Ciebie zbawieni, Dziewico czysta, z bezcielesnymi chórami Ciebie uwielbiając. ♦"
+    }, 
+    {
+      "cu": "Вра'чь боля'щихъ въ прегрjьше'нiихъ, w\\т бг~а бл~же'нне, губи'тель же jа=ви'лся _е=си` и= прогони'тель лука'выхъ духw'въ: тjь'мже тя` о_у=бл~жа'емъ. ♦", 
+      "pl": "¶ Lekarzu chorych w grzechach, przyszedłeś od Boga, błogosławiony, aby zgubić i przepędzić złe duchy, przeto błogosławimy ciebie. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "Зе'млю, jа='коже тли` жили'ще, w=ста'вилъ _е=си` _о='тче, и= въ земли` всели'лся _е=си` кро'ткихъ, и= съ ни'ми весели'шися, бж~е'ственныя наслажда'яся сла'дости. ♦", 
+      "pl": "Pozostawiłeś ziemię jako mieszkanie zniszczenia, ojcze, i zamieszkałeś w ziemi łagodnych, z nimi radując się rozkoszujesz się Bożą słodyczą. ¶"
+    }, 
+    {
+      "cu": "¶ Дне'сь де'нь пра'зднственный, вся^ бо созыва'етъ мона'шествующихъ стада`, въ ли'къ дх~о'вный, на трапе'зу и= снjь'дь нетлjь'нныя жи'зни. ♦", 
+      "pl": "Dzisiaj jest świąteczny dzień, albowiem zwołuje wszystkie mnisie owczarnie do duchowego chóru, na ucztę i pokarm życia niezniszczalnego. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "Бг~оро'диченъ: ♦", 
+      "pl": "Teotokion: ♦"
+    }, 
+    {
+      "cu": "Въ тебjь` всели'вся всенепоро'чная, пре'жде родонача'льники sлонра'внw прельсти'вшаго человjькоубi'йцу низложи'вый, роди'ся, и= вся^ ны` сп~се`. ¶", 
+      "pl": "W Tobie zamieszkał Ten, który przedtem zrzucił przywódcę zła, oszusta i zabójcę ludzi, Najczystsza, zrodził się z Ciebie i zbawił nas wszystkich. ¶"
+    }, 
+    {
+      "cu": "_Е=_ксапостiла'рiй воскр\\снъ, и= прп\\днагw. ♦", 
+      "pl": "Eksapostilarion zmartwychwstania i świętego: ¶"
+    }, 
+    {
+      "cu": "Подо'бенъ: ♦", 
+      "pl": "Prosomion: ♦"
+    }, 
+    {
+      "cu": "Ж_ены` о_у=слы'шите: ♦", 
+      "pl": "Niewiasty, usłyszcie. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "Мi'ра бл~гостра'стiя, jа='коже вре'днагw о_у=клони'лся _е=си`, и= безбра'шiемъ пло'ть о_у=вяди'въ, w=бнови'лъ _е=си` души` крjь'пость прп\\дбне, и= сла'вою w=богати'лся _е=си` нб\\сною пресла'вне. ♦ тjь'мже не преста'й моля'ся w= на'съ i=wа'нне. ♦", 
+      "pl": "Odszedłeś od świata żądz jako szkodliwego i umartwiwszy ciało przez post odnowiłeś moc duszy, czcigodny, i sławnie wzbogaciłeś się chwałą niebieską, przeto nie przestawaj modlić się za nami, Janie. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "Бг~оро'диченъ: ♦", 
+      "pl": "Teotokion: ♦"
+    }, 
+    {
+      "cu": "Гд\\сственнw бц\\ду тя` и=сповjь'дуемъ вл\\дчце, тобо'ю сп~се'ни: и='бо бг~а родила` _е=си` неизрече'ннw, разо'ршаго кр\\сто'мъ сме'рть, къ себjь' же привле'кшаго прп\\дбныхъ собо'ры: съ ни'миже тя` восхваля'емъ дв~о. ¶", 
+      "pl": "Przez Ciebie zbawieni, wyznajemy Ciebie we właściwym sensie jako Bogurodzicę, Władczyni, albowiem w niewypowiedziany sposób zrodziłaś Boga, który krzyżem zniszczył śmierć i pociągnął do siebie zgromadzenia sprawiedliwych, z którymi wysławiamy Ciebie, Dziewico. ¶"
+    }, 
+    {
+      "cu": "На хвали'техъ воскр\\сны _о=смогла'сника, и= а=натw'лiевы. ¶", 
+      "pl": "Do psalmów pochwalnych dodajemy stichery Oktoechosu i Anatoliosa. ¶"
+    }, 
+    {
+      "cu": "Та'же глаго'лемъ стi'хъ: ♦", 
+      "pl": "Mówimy także stichos: ♦"
+    }, 
+    {
+      "cu": "Воскр\\сни` гд\\си бж~е мо'й, да вознесе'тся рука` твоя`: ¶ И= пое'мъ самогла'сенъ, гла'съ а~: ♦", 
+      "pl": "Powstań, Panie Boże mój, niech wzniesie się ręka Twoja, nie zapominaj na zawsze o ubogich Twoich. ♦"
+    }, 
+    {
+      "pl": "¶ Isomelos, ton 1: ♦"
+    }, 
+    {
+      "cu": "Прiиди'те дjь'лаимъ въ та'йномъ вiногра'дjь, плоды` покая'нiя въ не'мъ творя'ще, не въ бра'шнjьхъ и= питiи'хъ тружда'ющеся, но въ мл~твахъ и= постjь'хъ добродjь'т_ели и=справля'юще: си'ми о_у=гожда'емый гд\\сь дjь'ла, дiна'рь подае'тъ, и='мже ду'шы и=збавля'етъ до'лга грjьхо'внагw, _е=ди'нъ многомл\\стивый. ¶ Сла'ва, па'ки то'йже. ♦", 
+      "pl": "Przyjdźcie, pracujmy w tajemnej winnicy i czyńmy w niej owoce pokuty, nie trudząc się w pokarmach i napojach, ale w modlitwach i postach poprawiając cnoty, dzięki czemu Pan żyjącym zgodnie z wolą Bożą da denara, którym wybawi duszę z długu grzechów, jedyny wielce miłosierny. ♦"
+    }, 
+    {
+      "cu": "И= ны'нjь: ♦", 
+      "pl": "¶ Chwała, i teraz. ♦"
+    }, 
+    {
+      "cu": "Пребл~гослове'нна _е=си`: ♦", 
+      "pl": "Błogosławiona jesteś. ♦"
+    }, 
+    {
+      "cu": "Славосло'вiе вели'кое, и= w\\тпу'стъ. ♦", 
+      "pl": "Wielka doksologia i rozesłanie. ♦"
+    }, 
+    {
+      "cu": "Сла'ва, и= ны'нjь: стiхи'ра _е=v\\гльская: и= w=глаше'нiе, и= ча'съ а~-й, и= про'чее послjь'дованiе jа='кw _о=бы'чно. ♦", 
+      "pl": "Chwała, i teraz. ♦ Stichera Ewangelii, katecheza i pierwsza godzina. ¶"
+    }, 
+    {
+      "cu": "¶ На лiтургi'и и=з\\ъwбрази'т_ельныя, и= бл~же'нны гла'са. ♦", 
+      "pl": "Na Liturgii typika i Błogosławieństwa według tonu. ♦"
+    }, 
+    {
+      "cu": "Прокi'менъ а=п\\сла, рядова'гw гла'са, и= прп\\дбнагw. ♦", 
+      "pl": "Prokimenon lekcji według tonu i świętemu, ton 7: ♦"
+    }, 
+    {
+      "cu": "Гла'съ з~. ♦ Восхва'лятся прп\\дбнiи во сла'вjь, и= возра'дуются на ло'жахъ свои'хъ. ♦", 
+      "pl": "Niech się weselą święci w chwale i niech się radują na łożach swoich. ♦"
+    }, 
+    {
+      "cu": "Стi'хъ: ♦", 
+      "pl": "Stichos: ♦"
+    }, 
+    {
+      "cu": "Воспо'йте гд\\сви пjь'снь но'ву. ♦", 
+      "pl": "Zaśpiewajcie Panu pieśń nową, albowiem Pan dokonał cudów. ♦"
+    }, 
+    {
+      "cu": "А=п\\слъ дне`, ко _е=вре'_емъ, зача'ло тд~_i. ♦ И= другi'й прп\\дбнагw ко _е=фесе'_емъ, зача'ло ск~f. ♦", 
+      "pl": "Lekcja dnia z Listu do Hebrajczyków, perykopa 314, i druga świętemu, z Listu do Efezjan, perykopa 229. ♦"
+    }, 
+    {
+      "cu": "А=ллилу'iа, гла'са, и= прп\\дбнагw. ♦", 
+      "pl": "Alleluja, według tonu, i świętemu. ♦"
+    }, 
+    {
+      "cu": "Стi'хъ: ♦", 
+      "pl": "Stichos: ♦"
+    }, 
+    {
+      "cu": "Насажде'ни въ дому` гд\\сни: ♦ _Е=v\\глiе w\\т ма'рка, зача'ло м~. ♦", 
+      "pl": "Zasadzeni w domu Pańskim, zakwitną na dziedzińcach Boga naszego. ♦"
+    }, 
+    {
+      "pl": "Ewangelia według Marka, perykopa 40, i świętemu, według Mateusza, perykopa 10. ♦ Koinonikon: ♦"
+    }, 
+    {
+      "cu": "И= прп\\дбнагw, w\\т матfе'а, зача'ло _i~. ♦ Кiнwнi'къ: ♦", 
+      "pl": "Chwalcie Pana z niebios, chwalcie Go na wysokościach. ♦ Drugi: ♦"
+    }, 
+    {
+      "cu": "Хвали'те гд\\са съ нб~съ: ♦ Другi'й: ♦ Въ па'мять вjь'чную: ♦", 
+      "pl": "W pamięci wiecznej będzie sprawiedliwy, nie ulęknie się złych pogłosek. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "Въ недjь'лю ве'чера, ♦", 
+      "pl": "W niedzielę wieczorem, ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "по предначина'тельномъ _псалмjь` на Гд\\си воззва'хъ, поста'вимъ стiхw'въ _i~. ♦", 
+      "pl": "po psalmie wstępnym do: ♦ Panie, wołam do Ciebie, dodajemy dziesięć stichosów. ♦"
+    }, 
+    {
+      "cu": "И= пое'мъ стiхи^ры о_у=мили'т_ельныя: _о=смогла'сника д~, и= трипjь'снца подw'бны господи'на i=w'сифа. ♦", 
+      "pl": "¶ Śpiewamy cztery stichery Oktoechosu i isomelosy trójpieśni kyr Józefa. ♦"
+    }, 
+    {
+      "cu": "Гла'съ г~. ♦", 
+      "pl": "Ton 3: ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "Подо'бенъ: ♦", 
+      "pl": "Prosomion: ♦"
+    }, 
+    {
+      "cu": "Ве'лiя кр\\ста`: ♦", 
+      "pl": "Wielka krzyża. ♦"
+    }, 
+    {
+      "cu": "¶ Вели^кiя вjь'рнiи во вре'мя пока'жемъ воздержа'нiя труды`: jа='кw да сла'ву вели'кую получи'мъ, мл\\стiю вели'кагw бг~а и=збавля'еми пла'мене гее'нскагw. ♦", 
+      "pl": "¶ Okażmy wielkie wysiłki w czasie wstrzemięźliwości, wierni, albowiem otrzymamy wielką chwałę, przez miłosierdzie wielkiego Boga wybawiani z płomienia Gehenny. ♦"
+    }, 
+    {
+      "cu": "¶ Вре'мя поще'нiя ны'нjь преполови'вше, нача'ло бж~е'ственнагw житiя` jа='вjь пока'жемъ, и= въ коне'цъ добродjь'тельнагw жи'тельства дости'гнути те'плjь потщи'мся: jа='кw да прiи'мемъ сла'дость нестарjь'емую. ♦", 
+      "pl": "¶ Przepołowiwszy teraz czas poszczenia, jawnie okażmy zasadę Bożego życia i gorąco starajmy się osiągnąć cnotliwy koniec życia, abyśmy otrzymali niestarzejącą się słodycz. ♦"
+    }, 
+    {
+      "cu": "¶ И='ный господи'на fео'дwра. ♦", 
+      "pl": "¶ Inna stichera kyr Teodora: ♦"
+    }, 
+    {
+      "cu": "Гла'съ з~. ♦", 
+      "pl": "¶ Ton 7. ♦"
+    }, 
+    {
+      "cu": "Подо'бенъ: ♦", 
+      "pl": "Prosomion: ♦"
+    }, 
+    {
+      "cu": "Под\\ъ кро'въ тво'й. ¶", 
+      "pl": "Pod Twój cień. ¶"
+    }, 
+    {
+      "cu": "Преполови'вше се'й сщ~е'нный поще'нiя пу'ть, къ бу'дущему ра'достiю потеце'мъ, бл~готворе'нiя _е=ле'емъ ду'шы пома'завше, jа='кw да сподо'бимся хр\\ста` бг~а на'шегw, и= бж~е'ств_еннымъ стр\\сте'мъ поклони'тися, предвари'ти и= стра'шное и= ст~о'е воскр\\снiе. ¶", 
+      "pl": "Przepołowiwszy świętą drogę poszczenia, pobiegnijmy do przyszłej radości, olejem dobrych uczynków namaściwszy dusze, abyśmy mogli pokłonić się Chrystusowi Bogu naszemu i Bożym cierpieniom, uprzedzając budzące bojaźń i święte zmartwychwstanie. ¶"
+    }, 
+    {
+      "cu": "И= мине'и г~. ♦", 
+      "pl": "Trzy stichery z Menei. ♦"
+    }, 
+    {
+      "pl": "Chwała, i teraz. ♦ Teotokion. Wejście. ♦"
+    }, 
+    {
+      "pl": "¶ Prokimenon, ton 8: ♦"
+    }, 
+    {
+      "cu": "Сла'ва, и= ны'нjь, бг~оро'диченъ. ♦ Вхо'дъ. Прокi'менъ, гла'съ и~: ♦ Не w\\тврати` лица` твоегw`: [Ли'стъ _о~з.] ♦", 
+      "pl": "Nie odwracaj Twego oblicza od Twego dziecka, bowiem cierpię, szybko mnie usłysz, zważ na duszę moją i zbaw ją. ♦"
+    }, 
+    {
+      "cu": "¶ На стiхо'внjь самогла'сенъ дне`. ♦", 
+      "pl": "¶ Na stichownie isomelos dnia. ♦"
+    }, 
+    {
+      "cu": "Гла'съ з~: ¶", 
+      "pl": "Ton 7: ¶"
+    }, 
+    {
+      "cu": "Вiногра'дъ насади'вый, и= дjь'латели призва'вый, бли'зъ _е='сть сп~съ: прiиди'те поще'нiя подви^жницы мзду` воспрiи'мемъ, jа='кw бога'тъ _е='сть да'вецъ и= мл\\стивъ: ма'лw дjь'лавше, прiи'мемъ душе'вную мл\\сть. ¶", 
+      "pl": "Zasadziwszy winnicę i przyzwawszy robotników blisko jest Zbawca. ♦ Przyjdźcie, szermierze postu, otrzymamy nagrodę, albowiem bogaty i miłosierny jest Dawca, mało czyniąc otrzymamy duchowe miłosierdzie. ♦"
+    }, 
+    {
+      "pl": "¶ Inny isomelos. ♦"
+    }, 
+    {
+      "cu": "И='нъ самогла'сенъ. ♦", 
+      "pl": "Ton 6: ♦"
+    }, 
+    {
+      "cu": "Гла'съ s~: ¶ Въ разбо'йнич_ескiя по'мыслы впа'дъ а=да'мъ, прельсти'ся о_у=мо'мъ, и= о_у=язви'вся душе'ю, лежа'ше на'гъ заступле'нiя: ни сщ~е'нникъ же пре'жде зако'на вня'тъ _е=му`, ниже` леvi'тъ по зако'нjь воззрjь'въ на'нь: то'кмw ты` прише'дый бж~е, не w\\т самарi'и, но w\\т бц\\ды: гд\\си сла'ва тебjь`. ♦", 
+      "pl": "Adam wpadł w zbójeckie myśli, został oszukany przez rozum i zranił duszę, leży bez pomocy, ani kapłan przed Prawem nie zwróci nań uwagi, ani lewita według Prawa nie spojrzy na niego, tylko Ty, Boże, który nie przyszedłeś z Samarii, ale z Bogurodzicy, Panie, chwała Tobie. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "Мч~нченъ: ♦", 
+      "pl": "Męczennikom: ♦"
+    }, 
+    {
+      "cu": "Мч~нцы твои` гд\\си, не w\\тверго'шася тебе`, ни w\\тступи'ша w\\т за'повjьдей твои'хъ тjь'хъ мл~твами поми'луй на'съ. ¶", 
+      "pl": "Twoi męczennicy, Panie, nie wyrzekli się Ciebie, nie odstąpili od Twoich przykazań, dla ich modlitw zmiłuj się nad nami. ¶"
+    }, 
+    {
+      "cu": "Сла'ва, и= ны'нjь, бг~оро'диченъ, гла'съ s~: ♦", 
+      "pl": "Chwała, i teraz. ♦ Teotokion, ton 6: ♦"
+    }, 
+    {
+      "cu": "А=рха'гг~льски воспои'мъ вjь'рнiи нб\\сный черто'гъ, и= две'рь запеча'танну вои'стинну. ♦ ра'дуйся, _е=я'же ра'ди w\\трасте` на'мъ сп~съ всjь'хъ хр\\сто'съ, жизнода'вецъ и= бг~ъ: низложи` вл\\дчце мучи'тели, безбw'жныя враги` на'шя, руко'ю твое'ю преч\\стая, о_у=пова'нiе хр\\стiа'нъ. ♦", 
+      "pl": "Jak archanioł zaśpiewajmy, wierni, niebieskiej komnacie i bramie zaiste zapieczętowanej. ♦ Raduj się, dzięki której przyszedł do nas Zbawca wszystkich, Chrystus, Dawca życia i Bóg, który zrzuci dręczycieli, naszych bezbożnych wrogów, ręką Twoją, Przeczysta, Nadziejo chrześcijan. ♦"
+    }, 
+    {
+      "cu": "¶ И= про'чее послjь'дованiе по _о=бы'чаю. ♦", 
+      "pl": "¶ I dalszy ciąg zgodnie ze zwyczajem. ♦"
+    }, 
+    {
+      "cu": "¶", 
+      "pl": "¶"
+    }, 
+    {
+      "cu": "На повече'рiи пое'мъ слу'жбу прилучи'вшагwся ст~а'гw, въ четверто'къ вели'кагw канw'на. ¶", 
+      "pl": "Na powieczerzu śpiewamy służbę świętemu, którego pamięć wypada w czwartek wielkiego kanonu. ¶"
+    }
+  ]
+}
